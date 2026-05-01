@@ -1,0 +1,421 @@
+country,brand,drivetrain_type,year,month,units_sold,frequency,source
+China,BYD,BEV+PHEV,2020,1,24840,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,2,24840,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,3,24840,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,4,29880,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,5,29880,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,6,29880,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,7,38630,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,8,38630,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,9,38630,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,10,63013,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,11,63013,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2020,12,63013,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,1,60662,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,2,60662,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,3,60662,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,4,73762,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,5,73762,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,6,73762,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,7,104154,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,8,104154,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,9,104154,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,10,194296,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,11,194296,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2021,12,194296,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,1,213863,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,2,213863,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,3,213863,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,4,293533,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,5,293533,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,6,293533,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,7,405002,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,8,405002,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,9,405002,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,10,622753,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,11,622753,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2022,12,622753,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,1,378271,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,2,378271,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,3,378271,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,4,502822,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,5,502822,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,6,502822,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,7,578335,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,8,578335,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,9,578335,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,10,648008,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,11,648008,monthly_est,brand_reports
+China,BYD,BEV+PHEV,2023,12,648008,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,1,23093,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,2,23093,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,3,23093,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,4,37487,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,5,37487,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,6,37487,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,7,35042,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,8,35042,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,9,35042,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,10,66597,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,11,66597,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2021,12,66597,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,1,35266,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,2,35266,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,3,35266,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,4,25153,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,5,25153,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,6,25153,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,7,62995,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,8,62995,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,9,62995,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,10,94491,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,11,94491,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2022,12,94491,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,1,33430,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,2,33430,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,3,33430,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,4,44071,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,5,44071,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,6,44071,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,7,51593,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,8,51593,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,9,51593,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,10,58642,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,11,58642,monthly_est,brand_reports
+China,Tesla,BEV+PHEV,2023,12,58642,monthly_est,brand_reports
+France,All,BEV+PHEV,2019,1,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,2,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,3,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,4,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,5,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,6,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,7,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,8,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,9,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,10,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,11,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2019,12,5134,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,1,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,2,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,3,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,4,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,5,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,6,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,7,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,8,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,9,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,10,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,11,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2020,12,15472,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,1,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,2,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,3,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,4,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,5,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,6,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,7,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,8,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,9,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,10,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,11,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2021,12,24758,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,1,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,2,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,3,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,4,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,5,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,6,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,7,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,8,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,9,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,10,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,11,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2022,12,30924,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,1,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,2,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,3,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,4,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,5,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,6,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,7,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,8,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,9,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,10,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,11,39704,monthly_est,IEA_Global_EV_Outlook_2024
+France,All,BEV+PHEV,2023,12,39704,monthly_est,IEA_Global_EV_Outlook_2024
+Germany,VW,BEV+PHEV,2021,1,9633,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,2,9633,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,3,9633,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,4,14033,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,5,14033,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,6,14033,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,7,19600,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,8,19600,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,9,19600,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,10,24733,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,11,24733,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2021,12,24733,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,1,24133,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,2,24133,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,3,24133,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,4,29400,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,5,29400,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,6,29400,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,7,30333,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,8,30333,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,9,30333,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,10,34766,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,11,34766,monthly_est,brand_reports
+Germany,VW,BEV+PHEV,2022,12,34766,monthly_est,brand_reports
+India,All,BEV+PHEV,2019,1,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,2,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,3,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,4,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,5,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,6,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,7,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,8,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,9,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,10,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,11,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2019,12,316,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,1,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,2,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,3,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,4,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,5,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,6,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,7,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,8,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,9,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,10,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,11,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2020,12,416,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,1,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,2,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,3,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,4,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,5,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,6,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,7,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,8,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,9,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,10,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,11,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2021,12,1099,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,1,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,2,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,3,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,4,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,5,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,6,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,7,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,8,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,9,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,10,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,11,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2022,12,4014,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,1,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,2,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,3,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,4,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,5,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,6,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,7,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,8,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,9,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,10,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,11,7536,monthly_est,IEA_Global_EV_Outlook_2024
+India,All,BEV+PHEV,2023,12,7536,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,1,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,2,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,3,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,4,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,5,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,6,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,7,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,8,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,9,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,10,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,11,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2019,12,7266,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,1,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,2,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,3,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,4,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,5,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,6,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,7,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,8,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,9,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,10,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,11,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2020,12,6105,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,1,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,2,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,3,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,4,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,5,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,6,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,7,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,8,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,9,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,10,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,11,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2021,12,9928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,1,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,2,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,3,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,4,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,5,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,6,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,7,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,8,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,9,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,10,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,11,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2022,12,5928,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,1,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,2,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,3,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,4,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,5,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,6,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,7,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,8,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,9,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,10,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,11,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Netherlands,All,BEV+PHEV,2023,12,8824,monthly_est,IEA_Global_EV_Outlook_2024
+Norway,BYD,BEV+PHEV,2022,1,40,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,2,40,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,3,40,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,4,296,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,5,296,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,6,296,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,7,473,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,8,473,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,9,473,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,10,700,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,11,700,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2022,12,700,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,1,1066,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,2,1066,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,3,1066,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,4,1933,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,5,1933,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,6,1933,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,7,2400,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,8,2400,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,9,2400,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,10,3133,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,11,3133,monthly_est,brand_reports
+Norway,BYD,BEV+PHEV,2023,12,3133,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,1,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,2,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,3,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,4,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,5,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,6,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,7,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,8,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,9,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,10,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,11,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2020,12,15028,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,1,60112,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,2,60112,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,3,60112,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,4,67083,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,5,67083,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,6,67083,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,7,80433,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,8,80433,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,9,80433,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,10,102866,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,11,102866,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2021,12,102866,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,1,99340,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,2,99340,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,3,99340,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,4,84898,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,5,84898,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,6,84898,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,7,114610,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,8,114610,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,9,114610,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,10,135092,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,11,135092,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2022,12,135092,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,1,140958,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,2,140958,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,3,140958,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,4,155380,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,5,155380,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,6,155380,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,7,166666,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,8,166666,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,9,166666,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,10,161502,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,11,161502,monthly_est,brand_reports
+USA,Tesla,BEV+PHEV,2023,12,161502,monthly_est,brand_reports
+United Kingdom,All,BEV+PHEV,2019,1,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,2,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,3,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,4,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,5,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,6,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,7,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,8,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,9,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,10,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,11,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2019,12,6269,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,1,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,2,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,3,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,4,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,5,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,6,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,7,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,8,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,9,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,10,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,11,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2020,12,14590,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,1,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,2,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,3,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,4,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,5,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,6,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,7,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,8,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,9,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,10,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,11,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2021,12,25422,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,1,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,2,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,3,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,4,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,5,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,6,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,7,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,8,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,9,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,10,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,11,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2022,12,30960,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,1,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,2,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,3,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,4,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,5,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,6,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,7,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,8,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,9,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,10,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,11,40000,monthly_est,IEA_Global_EV_Outlook_2024
+United Kingdom,All,BEV+PHEV,2023,12,40000,monthly_est,IEA_Global_EV_Outlook_2024

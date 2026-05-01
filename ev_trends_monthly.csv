@@ -1,0 +1,2851 @@
+country,geo,year,month,keyword,trend_score
+China,CN,2018,12,BYD,0.0
+China,CN,2018,12,Tesla,32.0
+China,CN,2018,12,electric car,0.0
+China,CN,2019,1,BYD,2.25
+China,CN,2019,1,Tesla,33.25
+China,CN,2019,1,electric car,0.0
+China,CN,2019,2,BYD,0.0
+China,CN,2019,2,Tesla,43.5
+China,CN,2019,2,electric car,0.0
+China,CN,2019,3,BYD,2.4
+China,CN,2019,3,Tesla,51.2
+China,CN,2019,3,electric car,0.0
+China,CN,2019,4,BYD,2.25
+China,CN,2019,4,Tesla,45.75
+China,CN,2019,4,electric car,0.0
+China,CN,2019,5,BYD,0.0
+China,CN,2019,5,Tesla,46.0
+China,CN,2019,5,electric car,0.0
+China,CN,2019,6,BYD,0.0
+China,CN,2019,6,Tesla,38.2
+China,CN,2019,6,electric car,0.0
+China,CN,2019,7,BYD,0.0
+China,CN,2019,7,Tesla,34.5
+China,CN,2019,7,electric car,0.0
+China,CN,2019,8,BYD,0.0
+China,CN,2019,8,Tesla,31.75
+China,CN,2019,8,electric car,0.0
+China,CN,2019,9,BYD,2.4
+China,CN,2019,9,Tesla,33.6
+China,CN,2019,9,electric car,0.0
+China,CN,2019,10,BYD,0.0
+China,CN,2019,10,Tesla,40.0
+China,CN,2019,10,electric car,0.0
+China,CN,2019,11,BYD,0.0
+China,CN,2019,11,Tesla,63.25
+China,CN,2019,11,electric car,0.0
+China,CN,2019,12,BYD,0.0
+China,CN,2019,12,Tesla,50.0
+China,CN,2019,12,electric car,0.0
+China,CN,2020,1,BYD,2.75
+China,CN,2020,1,Tesla,67.25
+China,CN,2020,1,electric car,0.0
+China,CN,2020,2,BYD,0.0
+China,CN,2020,2,Tesla,68.0
+China,CN,2020,2,electric car,0.0
+China,CN,2020,3,BYD,0.0
+China,CN,2020,3,Tesla,54.4
+China,CN,2020,3,electric car,0.0
+China,CN,2020,4,BYD,0.0
+China,CN,2020,4,Tesla,58.25
+China,CN,2020,4,electric car,0.0
+China,CN,2020,5,BYD,0.0
+China,CN,2020,5,Tesla,45.2
+China,CN,2020,5,electric car,0.0
+China,CN,2020,6,BYD,0.0
+China,CN,2020,6,Tesla,47.25
+China,CN,2020,6,electric car,0.0
+China,CN,2020,7,BYD,0.0
+China,CN,2020,7,Tesla,54.0
+China,CN,2020,7,electric car,0.0
+China,CN,2020,8,BYD,0.0
+China,CN,2020,8,Tesla,61.0
+China,CN,2020,8,electric car,0.0
+China,CN,2020,9,BYD,0.0
+China,CN,2020,9,Tesla,78.5
+China,CN,2020,9,electric car,0.0
+China,CN,2020,10,BYD,0.0
+China,CN,2020,10,Tesla,58.75
+China,CN,2020,10,electric car,0.0
+China,CN,2020,11,BYD,0.0
+China,CN,2020,11,Tesla,64.6
+China,CN,2020,11,electric car,0.0
+China,CN,2020,12,BYD,0.0
+China,CN,2020,12,EV charging,0.0
+China,CN,2020,12,Tesla,71.4
+China,CN,2020,12,electric car,0.0
+China,CN,2020,12,electric vehicle,0.0
+China,CN,2021,1,BYD,6.4
+China,CN,2021,1,EV charging,0.0
+China,CN,2021,1,Tesla,79.0
+China,CN,2021,1,electric car,0.0
+China,CN,2021,1,electric vehicle,0.0
+China,CN,2021,2,BYD,3.25
+China,CN,2021,2,EV charging,0.0
+China,CN,2021,2,Tesla,82.25
+China,CN,2021,2,electric car,0.0
+China,CN,2021,2,electric vehicle,0.0
+China,CN,2021,3,BYD,2.5
+China,CN,2021,3,EV charging,0.0
+China,CN,2021,3,Tesla,63.75
+China,CN,2021,3,electric car,3.25
+China,CN,2021,3,electric vehicle,25.0
+China,CN,2021,4,BYD,7.25
+China,CN,2021,4,EV charging,0.0
+China,CN,2021,4,Tesla,57.0
+China,CN,2021,4,electric car,0.0
+China,CN,2021,4,electric vehicle,0.0
+China,CN,2021,5,BYD,1.4
+China,CN,2021,5,EV charging,0.0
+China,CN,2021,5,Tesla,51.0
+China,CN,2021,5,electric car,0.0
+China,CN,2021,5,electric vehicle,0.0
+China,CN,2021,6,BYD,1.5
+China,CN,2021,6,EV charging,0.0
+China,CN,2021,6,Tesla,40.75
+China,CN,2021,6,electric car,0.0
+China,CN,2021,6,electric vehicle,0.0
+China,CN,2021,7,BYD,1.75
+China,CN,2021,7,EV charging,0.0
+China,CN,2021,7,Tesla,41.0
+China,CN,2021,7,electric car,0.0
+China,CN,2021,7,electric vehicle,0.0
+China,CN,2021,8,BYD,6.2
+China,CN,2021,8,EV charging,0.0
+China,CN,2021,8,Tesla,46.2
+China,CN,2021,8,electric car,1.0
+China,CN,2021,8,electric vehicle,0.0
+China,CN,2021,9,BYD,3.0
+China,CN,2021,9,EV charging,0.0
+China,CN,2021,9,Tesla,43.25
+China,CN,2021,9,electric car,1.5
+China,CN,2021,9,electric vehicle,0.0
+China,CN,2021,10,BYD,3.2
+China,CN,2021,10,EV charging,0.0
+China,CN,2021,10,Tesla,50.0
+China,CN,2021,10,electric car,1.2
+China,CN,2021,10,electric vehicle,0.0
+China,CN,2021,11,BYD,5.25
+China,CN,2021,11,EV charging,0.0
+China,CN,2021,11,Tesla,55.25
+China,CN,2021,11,electric car,1.5
+China,CN,2021,11,electric vehicle,0.0
+China,CN,2021,12,BYD,8.2
+China,CN,2021,12,EV charging,0.0
+China,CN,2021,12,Tesla,50.6
+China,CN,2021,12,electric car,0.0
+China,CN,2021,12,electric vehicle,0.0
+China,CN,2022,1,BYD,8.0
+China,CN,2022,1,EV charging,0.0
+China,CN,2022,1,Tesla,79.0
+China,CN,2022,1,electric car,0.0
+China,CN,2022,1,electric vehicle,0.0
+China,CN,2022,2,BYD,13.75
+China,CN,2022,2,EV charging,0.0
+China,CN,2022,2,Tesla,72.0
+China,CN,2022,2,electric car,0.0
+China,CN,2022,2,electric vehicle,0.0
+China,CN,2022,3,BYD,10.5
+China,CN,2022,3,EV charging,0.0
+China,CN,2022,3,Tesla,73.75
+China,CN,2022,3,electric car,7.25
+China,CN,2022,3,electric vehicle,0.0
+China,CN,2022,4,BYD,10.75
+China,CN,2022,4,EV charging,0.0
+China,CN,2022,4,Tesla,76.0
+China,CN,2022,4,electric car,4.0
+China,CN,2022,4,electric vehicle,25.0
+China,CN,2022,5,BYD,10.4
+China,CN,2022,5,EV charging,0.0
+China,CN,2022,5,Tesla,80.4
+China,CN,2022,5,electric car,0.0
+China,CN,2022,5,electric vehicle,13.0
+China,CN,2022,6,BYD,15.25
+China,CN,2022,6,EV charging,0.0
+China,CN,2022,6,Tesla,75.5
+China,CN,2022,6,electric car,0.0
+China,CN,2022,6,electric vehicle,16.75
+China,CN,2022,7,BYD,14.2
+China,CN,2022,7,EV charging,13.0
+China,CN,2022,7,Tesla,66.6
+China,CN,2022,7,electric car,3.0
+China,CN,2022,7,electric vehicle,0.0
+China,CN,2022,8,BYD,14.0
+China,CN,2022,8,EV charging,0.0
+China,CN,2022,8,Tesla,65.5
+China,CN,2022,8,electric car,0.0
+China,CN,2022,8,electric vehicle,0.0
+China,CN,2022,9,BYD,13.25
+China,CN,2022,9,EV charging,0.0
+China,CN,2022,9,Tesla,72.75
+China,CN,2022,9,electric car,0.0
+China,CN,2022,9,electric vehicle,0.0
+China,CN,2022,10,BYD,15.6
+China,CN,2022,10,EV charging,0.0
+China,CN,2022,10,Tesla,81.0
+China,CN,2022,10,electric car,3.6
+China,CN,2022,10,electric vehicle,0.0
+China,CN,2022,11,BYD,15.0
+China,CN,2022,11,EV charging,0.0
+China,CN,2022,11,Tesla,66.0
+China,CN,2022,11,electric car,1.75
+China,CN,2022,11,electric vehicle,0.0
+China,CN,2022,12,BYD,13.25
+China,CN,2022,12,EV charging,0.0
+China,CN,2022,12,Tesla,68.5
+China,CN,2022,12,electric car,0.0
+China,CN,2022,12,electric vehicle,0.0
+China,CN,2023,1,BYD,20.6
+China,CN,2023,1,EV charging,0.0
+China,CN,2023,1,Tesla,81.6
+China,CN,2023,1,electric car,0.0
+China,CN,2023,1,electric vehicle,0.0
+China,CN,2023,2,BYD,15.5
+China,CN,2023,2,EV charging,0.0
+China,CN,2023,2,Tesla,78.0
+China,CN,2023,2,electric car,0.0
+China,CN,2023,2,electric vehicle,15.5
+China,CN,2023,3,BYD,17.5
+China,CN,2023,3,EV charging,0.0
+China,CN,2023,3,Tesla,62.25
+China,CN,2023,3,electric car,1.5
+China,CN,2023,3,electric vehicle,0.0
+China,CN,2023,4,BYD,24.2
+China,CN,2023,4,EV charging,0.0
+China,CN,2023,4,Tesla,66.6
+China,CN,2023,4,electric car,2.6
+China,CN,2023,4,electric vehicle,12.2
+China,CN,2023,5,BYD,21.75
+China,CN,2023,5,EV charging,0.0
+China,CN,2023,5,Tesla,64.75
+China,CN,2023,5,electric car,1.5
+China,CN,2023,5,electric vehicle,16.0
+China,CN,2023,6,BYD,20.0
+China,CN,2023,6,EV charging,0.0
+China,CN,2023,6,Tesla,66.5
+China,CN,2023,6,electric car,3.5
+China,CN,2023,6,electric vehicle,0.0
+China,CN,2023,7,BYD,19.8
+China,CN,2023,7,EV charging,0.0
+China,CN,2023,7,Tesla,67.4
+China,CN,2023,7,electric car,3.0
+China,CN,2023,7,electric vehicle,0.0
+China,CN,2023,8,BYD,20.25
+China,CN,2023,8,EV charging,0.0
+China,CN,2023,8,Tesla,70.0
+China,CN,2023,8,electric car,1.5
+China,CN,2023,8,electric vehicle,0.0
+China,CN,2023,9,BYD,20.0
+China,CN,2023,9,EV charging,0.0
+China,CN,2023,9,Tesla,58.75
+China,CN,2023,9,electric car,1.5
+China,CN,2023,9,electric vehicle,0.0
+China,CN,2023,10,BYD,20.6
+China,CN,2023,10,EV charging,0.0
+China,CN,2023,10,Tesla,59.0
+China,CN,2023,10,electric car,2.6
+China,CN,2023,10,electric vehicle,21.4
+China,CN,2023,11,BYD,21.5
+China,CN,2023,11,EV charging,0.0
+China,CN,2023,11,Tesla,60.25
+China,CN,2023,11,electric car,6.0
+China,CN,2023,11,electric vehicle,31.5
+China,CN,2023,12,BYD,18.67
+China,CN,2023,12,EV charging,0.0
+China,CN,2023,12,Tesla,58.33
+China,CN,2023,12,electric car,3.83
+China,CN,2023,12,electric vehicle,25.5
+China,CN,2024,1,BYD,17.5
+China,CN,2024,1,EV charging,0.0
+China,CN,2024,1,Tesla,48.0
+China,CN,2024,1,electric car,2.75
+China,CN,2024,1,electric vehicle,0.0
+China,CN,2024,2,BYD,18.5
+China,CN,2024,2,EV charging,17.5
+China,CN,2024,2,Tesla,44.75
+China,CN,2024,2,electric car,1.0
+China,CN,2024,2,electric vehicle,0.0
+China,CN,2024,3,BYD,20.8
+China,CN,2024,3,EV charging,0.0
+China,CN,2024,3,Tesla,46.4
+China,CN,2024,3,electric car,2.0
+China,CN,2024,3,electric vehicle,26.6
+China,CN,2024,4,BYD,21.75
+China,CN,2024,4,EV charging,12.75
+China,CN,2024,4,Tesla,55.5
+China,CN,2024,4,electric car,4.75
+China,CN,2024,4,electric vehicle,0.0
+China,CN,2024,5,BYD,23.25
+China,CN,2024,5,EV charging,0.0
+China,CN,2024,5,Tesla,41.75
+China,CN,2024,5,electric car,3.25
+China,CN,2024,5,electric vehicle,29.5
+China,CN,2024,6,BYD,21.6
+China,CN,2024,6,EV charging,0.0
+China,CN,2024,6,Tesla,45.4
+China,CN,2024,6,electric car,2.6
+China,CN,2024,6,electric vehicle,34.2
+China,CN,2024,7,BYD,20.25
+China,CN,2024,7,EV charging,0.0
+China,CN,2024,7,Tesla,45.0
+China,CN,2024,7,electric car,1.25
+China,CN,2024,7,electric vehicle,36.75
+China,CN,2024,8,BYD,19.25
+China,CN,2024,8,EV charging,0.0
+China,CN,2024,8,Tesla,42.5
+China,CN,2024,8,electric car,1.25
+China,CN,2024,8,electric vehicle,0.0
+China,CN,2024,9,BYD,23.6
+China,CN,2024,9,EV charging,0.0
+China,CN,2024,9,Tesla,40.2
+China,CN,2024,9,electric car,2.4
+China,CN,2024,9,electric vehicle,0.0
+China,CN,2024,10,BYD,26.25
+China,CN,2024,10,EV charging,14.0
+China,CN,2024,10,Tesla,66.0
+China,CN,2024,10,electric car,0.0
+China,CN,2024,10,electric vehicle,32.25
+China,CN,2024,11,BYD,21.5
+China,CN,2024,11,EV charging,0.0
+China,CN,2024,11,Tesla,62.75
+China,CN,2024,11,electric car,2.25
+China,CN,2024,11,electric vehicle,0.0
+China,CN,2024,12,BYD,25.8
+China,CN,2024,12,EV charging,0.0
+China,CN,2024,12,Tesla,55.0
+China,CN,2024,12,electric car,1.0
+China,CN,2024,12,electric vehicle,30.2
+France,FR,2018,12,BYD,0.0
+France,FR,2018,12,EV charging,0.0
+France,FR,2018,12,Tesla,35.0
+France,FR,2018,12,electric car,1.0
+France,FR,2018,12,electric vehicle,0.0
+France,FR,2019,1,BYD,0.0
+France,FR,2019,1,EV charging,0.0
+France,FR,2019,1,Tesla,29.75
+France,FR,2019,1,electric car,0.75
+France,FR,2019,1,electric vehicle,15.5
+France,FR,2019,2,BYD,0.0
+France,FR,2019,2,EV charging,0.0
+France,FR,2019,2,Tesla,33.75
+France,FR,2019,2,electric car,0.5
+France,FR,2019,2,electric vehicle,24.0
+France,FR,2019,3,BYD,0.0
+France,FR,2019,3,EV charging,0.0
+France,FR,2019,3,Tesla,38.0
+France,FR,2019,3,electric car,0.4
+France,FR,2019,3,electric vehicle,20.0
+France,FR,2019,4,BYD,0.0
+France,FR,2019,4,EV charging,0.0
+France,FR,2019,4,Tesla,42.0
+France,FR,2019,4,electric car,1.0
+France,FR,2019,4,electric vehicle,19.0
+France,FR,2019,5,BYD,0.0
+France,FR,2019,5,EV charging,0.0
+France,FR,2019,5,Tesla,39.5
+France,FR,2019,5,electric car,1.0
+France,FR,2019,5,electric vehicle,21.5
+France,FR,2019,6,BYD,0.0
+France,FR,2019,6,EV charging,14.6
+France,FR,2019,6,Tesla,39.0
+France,FR,2019,6,electric car,1.0
+France,FR,2019,6,electric vehicle,29.0
+France,FR,2019,7,BYD,0.0
+France,FR,2019,7,EV charging,0.0
+France,FR,2019,7,Tesla,42.5
+France,FR,2019,7,electric car,1.0
+France,FR,2019,7,electric vehicle,17.5
+France,FR,2019,8,BYD,0.0
+France,FR,2019,8,EV charging,0.0
+France,FR,2019,8,Tesla,40.25
+France,FR,2019,8,electric car,1.0
+France,FR,2019,8,electric vehicle,71.75
+France,FR,2019,9,BYD,0.0
+France,FR,2019,9,EV charging,0.0
+France,FR,2019,9,Tesla,44.0
+France,FR,2019,9,electric car,1.0
+France,FR,2019,9,electric vehicle,27.2
+France,FR,2019,10,BYD,0.0
+France,FR,2019,10,EV charging,0.0
+France,FR,2019,10,Tesla,45.0
+France,FR,2019,10,electric car,1.0
+France,FR,2019,10,electric vehicle,14.5
+France,FR,2019,11,BYD,0.0
+France,FR,2019,11,EV charging,0.0
+France,FR,2019,11,Tesla,66.25
+France,FR,2019,11,electric car,1.0
+France,FR,2019,11,electric vehicle,56.25
+France,FR,2019,12,BYD,0.0
+France,FR,2019,12,EV charging,0.0
+France,FR,2019,12,Tesla,60.0
+France,FR,2019,12,electric car,1.0
+France,FR,2019,12,electric vehicle,21.83
+France,FR,2020,1,BYD,0.0
+France,FR,2020,1,EV charging,0.0
+France,FR,2020,1,Tesla,65.0
+France,FR,2020,1,electric car,1.0
+France,FR,2020,1,electric vehicle,43.75
+France,FR,2020,2,BYD,0.0
+France,FR,2020,2,EV charging,0.0
+France,FR,2020,2,Tesla,65.5
+France,FR,2020,2,electric car,1.0
+France,FR,2020,2,electric vehicle,52.75
+France,FR,2020,3,BYD,0.0
+France,FR,2020,3,EV charging,0.0
+France,FR,2020,3,Tesla,45.0
+France,FR,2020,3,electric car,0.4
+France,FR,2020,3,electric vehicle,33.0
+France,FR,2020,4,BYD,0.0
+France,FR,2020,4,EV charging,0.0
+France,FR,2020,4,Tesla,37.5
+France,FR,2020,4,electric car,0.25
+France,FR,2020,4,electric vehicle,21.0
+France,FR,2020,5,BYD,0.6
+France,FR,2020,5,EV charging,0.0
+France,FR,2020,5,Tesla,49.2
+France,FR,2020,5,electric car,0.8
+France,FR,2020,5,electric vehicle,48.4
+France,FR,2020,6,BYD,0.75
+France,FR,2020,6,EV charging,12.5
+France,FR,2020,6,Tesla,63.75
+France,FR,2020,6,electric car,1.0
+France,FR,2020,6,electric vehicle,17.75
+France,FR,2020,7,BYD,0.75
+France,FR,2020,7,EV charging,0.0
+France,FR,2020,7,Tesla,79.0
+France,FR,2020,7,electric car,1.0
+France,FR,2020,7,electric vehicle,0.0
+France,FR,2020,8,BYD,0.8
+France,FR,2020,8,EV charging,0.0
+France,FR,2020,8,Tesla,84.6
+France,FR,2020,8,electric car,1.0
+France,FR,2020,8,electric vehicle,18.0
+France,FR,2020,9,BYD,1.0
+France,FR,2020,9,EV charging,0.0
+France,FR,2020,9,Tesla,81.75
+France,FR,2020,9,electric car,1.0
+France,FR,2020,9,electric vehicle,14.0
+France,FR,2020,10,BYD,0.5
+France,FR,2020,10,EV charging,0.0
+France,FR,2020,10,Tesla,66.0
+France,FR,2020,10,electric car,0.75
+France,FR,2020,10,electric vehicle,14.5
+France,FR,2020,11,BYD,0.8
+France,FR,2020,11,EV charging,0.0
+France,FR,2020,11,Tesla,48.6
+France,FR,2020,11,electric car,0.8
+France,FR,2020,11,electric vehicle,64.6
+France,FR,2020,12,BYD,0.4
+France,FR,2020,12,EV charging,0.0
+France,FR,2020,12,Tesla,52.4
+France,FR,2020,12,electric car,0.6
+France,FR,2020,12,electric vehicle,25.8
+France,FR,2021,1,BYD,0.0
+France,FR,2021,1,EV charging,0.0
+France,FR,2021,1,Tesla,56.4
+France,FR,2021,1,electric car,0.2
+France,FR,2021,1,electric vehicle,16.4
+France,FR,2021,2,BYD,0.0
+France,FR,2021,2,EV charging,0.0
+France,FR,2021,2,Tesla,53.75
+France,FR,2021,2,electric car,0.5
+France,FR,2021,2,electric vehicle,12.5
+France,FR,2021,3,BYD,0.0
+France,FR,2021,3,EV charging,0.0
+France,FR,2021,3,Tesla,50.5
+France,FR,2021,3,electric car,0.0
+France,FR,2021,3,electric vehicle,26.25
+France,FR,2021,4,BYD,0.0
+France,FR,2021,4,EV charging,11.0
+France,FR,2021,4,Tesla,49.5
+France,FR,2021,4,electric car,0.0
+France,FR,2021,4,electric vehicle,0.0
+France,FR,2021,5,BYD,0.0
+France,FR,2021,5,EV charging,0.0
+France,FR,2021,5,Tesla,45.8
+France,FR,2021,5,electric car,0.4
+France,FR,2021,5,electric vehicle,17.2
+France,FR,2021,6,BYD,0.0
+France,FR,2021,6,EV charging,0.0
+France,FR,2021,6,Tesla,42.75
+France,FR,2021,6,electric car,0.25
+France,FR,2021,6,electric vehicle,14.75
+France,FR,2021,7,BYD,0.0
+France,FR,2021,7,EV charging,0.0
+France,FR,2021,7,Tesla,50.0
+France,FR,2021,7,electric car,0.25
+France,FR,2021,7,electric vehicle,11.75
+France,FR,2021,8,BYD,0.0
+France,FR,2021,8,EV charging,0.0
+France,FR,2021,8,Tesla,56.4
+France,FR,2021,8,electric car,0.4
+France,FR,2021,8,electric vehicle,9.6
+France,FR,2021,9,BYD,0.0
+France,FR,2021,9,EV charging,13.0
+France,FR,2021,9,Tesla,50.75
+France,FR,2021,9,electric car,0.75
+France,FR,2021,9,electric vehicle,35.25
+France,FR,2021,10,BYD,0.0
+France,FR,2021,10,EV charging,9.0
+France,FR,2021,10,Tesla,69.8
+France,FR,2021,10,electric car,1.0
+France,FR,2021,10,electric vehicle,23.8
+France,FR,2021,11,BYD,0.0
+France,FR,2021,11,EV charging,0.0
+France,FR,2021,11,Tesla,59.75
+France,FR,2021,11,electric car,0.5
+France,FR,2021,11,electric vehicle,39.75
+France,FR,2021,12,BYD,0.0
+France,FR,2021,12,EV charging,10.2
+France,FR,2021,12,Tesla,71.8
+France,FR,2021,12,electric car,0.2
+France,FR,2021,12,electric vehicle,0.0
+France,FR,2022,1,BYD,0.4
+France,FR,2022,1,EV charging,27.6
+France,FR,2022,1,Tesla,80.8
+France,FR,2022,1,electric car,1.0
+France,FR,2022,1,electric vehicle,26.4
+France,FR,2022,2,BYD,0.0
+France,FR,2022,2,EV charging,31.25
+France,FR,2022,2,Tesla,76.0
+France,FR,2022,2,electric car,1.0
+France,FR,2022,2,electric vehicle,49.5
+France,FR,2022,3,BYD,0.25
+France,FR,2022,3,EV charging,39.25
+France,FR,2022,3,Tesla,89.0
+France,FR,2022,3,electric car,1.0
+France,FR,2022,3,electric vehicle,78.5
+France,FR,2022,4,BYD,0.25
+France,FR,2022,4,EV charging,38.0
+France,FR,2022,4,Tesla,77.0
+France,FR,2022,4,electric car,1.0
+France,FR,2022,4,electric vehicle,74.25
+France,FR,2022,5,BYD,0.4
+France,FR,2022,5,EV charging,28.8
+France,FR,2022,5,Tesla,67.0
+France,FR,2022,5,electric car,1.0
+France,FR,2022,5,electric vehicle,67.4
+France,FR,2022,6,BYD,0.5
+France,FR,2022,6,EV charging,32.5
+France,FR,2022,6,Tesla,66.75
+France,FR,2022,6,electric car,1.0
+France,FR,2022,6,electric vehicle,51.25
+France,FR,2022,7,BYD,1.0
+France,FR,2022,7,EV charging,35.6
+France,FR,2022,7,Tesla,64.4
+France,FR,2022,7,electric car,1.0
+France,FR,2022,7,electric vehicle,27.8
+France,FR,2022,8,BYD,1.25
+France,FR,2022,8,EV charging,65.75
+France,FR,2022,8,Tesla,66.25
+France,FR,2022,8,electric car,1.0
+France,FR,2022,8,electric vehicle,31.0
+France,FR,2022,9,BYD,1.0
+France,FR,2022,9,EV charging,18.25
+France,FR,2022,9,Tesla,58.0
+France,FR,2022,9,electric car,1.0
+France,FR,2022,9,electric vehicle,35.5
+France,FR,2022,10,BYD,2.4
+France,FR,2022,10,EV charging,35.4
+France,FR,2022,10,Tesla,64.0
+France,FR,2022,10,electric car,1.0
+France,FR,2022,10,electric vehicle,41.6
+France,FR,2022,11,BYD,1.0
+France,FR,2022,11,EV charging,42.5
+France,FR,2022,11,Tesla,58.0
+France,FR,2022,11,electric car,1.0
+France,FR,2022,11,electric vehicle,59.25
+France,FR,2022,12,BYD,1.0
+France,FR,2022,12,EV charging,54.25
+France,FR,2022,12,Tesla,64.5
+France,FR,2022,12,electric car,1.0
+France,FR,2022,12,electric vehicle,12.0
+France,FR,2023,1,BYD,1.4
+France,FR,2023,1,EV charging,29.4
+France,FR,2023,1,Tesla,73.4
+France,FR,2023,1,electric car,0.8
+France,FR,2023,1,electric vehicle,32.4
+France,FR,2023,2,BYD,1.5
+France,FR,2023,2,EV charging,35.0
+France,FR,2023,2,Tesla,67.25
+France,FR,2023,2,electric car,1.0
+France,FR,2023,2,electric vehicle,39.75
+France,FR,2023,3,BYD,1.25
+France,FR,2023,3,EV charging,36.25
+France,FR,2023,3,Tesla,69.25
+France,FR,2023,3,electric car,1.0
+France,FR,2023,3,electric vehicle,33.0
+France,FR,2023,4,BYD,2.2
+France,FR,2023,4,EV charging,39.4
+France,FR,2023,4,Tesla,75.2
+France,FR,2023,4,electric car,1.0
+France,FR,2023,4,electric vehicle,62.4
+France,FR,2023,5,BYD,3.25
+France,FR,2023,5,EV charging,64.5
+France,FR,2023,5,Tesla,74.25
+France,FR,2023,5,electric car,1.0
+France,FR,2023,5,electric vehicle,48.5
+France,FR,2023,6,BYD,3.0
+France,FR,2023,6,EV charging,65.0
+France,FR,2023,6,Tesla,79.0
+France,FR,2023,6,electric car,1.0
+France,FR,2023,6,electric vehicle,61.5
+France,FR,2023,7,BYD,2.0
+France,FR,2023,7,EV charging,58.2
+France,FR,2023,7,Tesla,79.0
+France,FR,2023,7,electric car,1.0
+France,FR,2023,7,electric vehicle,57.4
+France,FR,2023,8,BYD,2.75
+France,FR,2023,8,EV charging,80.25
+France,FR,2023,8,Tesla,84.75
+France,FR,2023,8,electric car,1.0
+France,FR,2023,8,electric vehicle,39.25
+France,FR,2023,9,BYD,5.0
+France,FR,2023,9,EV charging,44.0
+France,FR,2023,9,Tesla,82.25
+France,FR,2023,9,electric car,1.0
+France,FR,2023,9,electric vehicle,55.25
+France,FR,2023,10,BYD,4.0
+France,FR,2023,10,EV charging,65.0
+France,FR,2023,10,Tesla,78.8
+France,FR,2023,10,electric car,1.0
+France,FR,2023,10,electric vehicle,62.2
+France,FR,2023,11,BYD,4.5
+France,FR,2023,11,EV charging,51.75
+France,FR,2023,11,Tesla,76.0
+France,FR,2023,11,electric car,1.0
+France,FR,2023,11,electric vehicle,70.5
+France,FR,2023,12,BYD,7.67
+France,FR,2023,12,EV charging,45.5
+France,FR,2023,12,Tesla,83.5
+France,FR,2023,12,electric car,1.0
+France,FR,2023,12,electric vehicle,43.33
+France,FR,2024,1,BYD,6.5
+France,FR,2024,1,EV charging,34.75
+France,FR,2024,1,Tesla,69.5
+France,FR,2024,1,electric car,1.0
+France,FR,2024,1,electric vehicle,65.25
+France,FR,2024,2,BYD,10.75
+France,FR,2024,2,EV charging,45.0
+France,FR,2024,2,Tesla,64.5
+France,FR,2024,2,electric car,1.0
+France,FR,2024,2,electric vehicle,82.25
+France,FR,2024,3,BYD,8.6
+France,FR,2024,3,EV charging,72.0
+France,FR,2024,3,Tesla,63.2
+France,FR,2024,3,electric car,1.0
+France,FR,2024,3,electric vehicle,60.2
+France,FR,2024,4,BYD,6.25
+France,FR,2024,4,EV charging,58.5
+France,FR,2024,4,Tesla,70.75
+France,FR,2024,4,electric car,1.0
+France,FR,2024,4,electric vehicle,59.25
+France,FR,2024,5,BYD,6.75
+France,FR,2024,5,EV charging,32.75
+France,FR,2024,5,Tesla,57.5
+France,FR,2024,5,electric car,1.0
+France,FR,2024,5,electric vehicle,50.0
+France,FR,2024,6,BYD,9.4
+France,FR,2024,6,EV charging,62.0
+France,FR,2024,6,Tesla,55.4
+France,FR,2024,6,electric car,1.0
+France,FR,2024,6,electric vehicle,58.8
+France,FR,2024,7,BYD,6.75
+France,FR,2024,7,EV charging,65.0
+France,FR,2024,7,Tesla,59.25
+France,FR,2024,7,electric car,1.0
+France,FR,2024,7,electric vehicle,43.5
+France,FR,2024,8,BYD,7.0
+France,FR,2024,8,EV charging,77.75
+France,FR,2024,8,Tesla,66.25
+France,FR,2024,8,electric car,1.0
+France,FR,2024,8,electric vehicle,60.0
+France,FR,2024,9,BYD,11.8
+France,FR,2024,9,EV charging,47.8
+France,FR,2024,9,Tesla,61.0
+France,FR,2024,9,electric car,1.0
+France,FR,2024,9,electric vehicle,56.4
+France,FR,2024,10,BYD,20.75
+France,FR,2024,10,EV charging,25.0
+France,FR,2024,10,Tesla,83.25
+France,FR,2024,10,electric car,1.0
+France,FR,2024,10,electric vehicle,68.5
+France,FR,2024,11,BYD,15.0
+France,FR,2024,11,EV charging,53.25
+France,FR,2024,11,Tesla,84.75
+France,FR,2024,11,electric car,1.0
+France,FR,2024,11,electric vehicle,60.5
+France,FR,2024,12,BYD,13.2
+France,FR,2024,12,EV charging,40.0
+France,FR,2024,12,Tesla,84.6
+France,FR,2024,12,electric car,1.0
+France,FR,2024,12,electric vehicle,38.8
+Germany,DE,2018,12,BYD,3.0
+Germany,DE,2018,12,EV charging,0.0
+Germany,DE,2018,12,Tesla,27.0
+Germany,DE,2018,12,electric car,0.0
+Germany,DE,2018,12,electric vehicle,0.0
+Germany,DE,2019,1,BYD,4.0
+Germany,DE,2019,1,EV charging,8.0
+Germany,DE,2019,1,Tesla,28.25
+Germany,DE,2019,1,electric car,0.0
+Germany,DE,2019,1,electric vehicle,61.5
+Germany,DE,2019,2,BYD,4.25
+Germany,DE,2019,2,EV charging,0.0
+Germany,DE,2019,2,Tesla,29.25
+Germany,DE,2019,2,electric car,0.25
+Germany,DE,2019,2,electric vehicle,68.75
+Germany,DE,2019,3,BYD,3.8
+Germany,DE,2019,3,EV charging,0.0
+Germany,DE,2019,3,Tesla,34.4
+Germany,DE,2019,3,electric car,0.2
+Germany,DE,2019,3,electric vehicle,64.2
+Germany,DE,2019,4,BYD,4.25
+Germany,DE,2019,4,EV charging,8.75
+Germany,DE,2019,4,Tesla,32.5
+Germany,DE,2019,4,electric car,0.25
+Germany,DE,2019,4,electric vehicle,69.75
+Germany,DE,2019,5,BYD,3.25
+Germany,DE,2019,5,EV charging,0.0
+Germany,DE,2019,5,Tesla,35.75
+Germany,DE,2019,5,electric car,0.0
+Germany,DE,2019,5,electric vehicle,70.0
+Germany,DE,2019,6,BYD,3.0
+Germany,DE,2019,6,EV charging,6.2
+Germany,DE,2019,6,Tesla,32.4
+Germany,DE,2019,6,electric car,0.0
+Germany,DE,2019,6,electric vehicle,68.6
+Germany,DE,2019,7,BYD,3.0
+Germany,DE,2019,7,EV charging,0.0
+Germany,DE,2019,7,Tesla,33.5
+Germany,DE,2019,7,electric car,0.0
+Germany,DE,2019,7,electric vehicle,65.5
+Germany,DE,2019,8,BYD,3.0
+Germany,DE,2019,8,EV charging,0.0
+Germany,DE,2019,8,Tesla,28.5
+Germany,DE,2019,8,electric car,0.0
+Germany,DE,2019,8,electric vehicle,54.25
+Germany,DE,2019,9,BYD,3.2
+Germany,DE,2019,9,EV charging,0.0
+Germany,DE,2019,9,Tesla,30.6
+Germany,DE,2019,9,electric car,0.8
+Germany,DE,2019,9,electric vehicle,65.2
+Germany,DE,2019,10,BYD,3.0
+Germany,DE,2019,10,EV charging,9.75
+Germany,DE,2019,10,Tesla,31.25
+Germany,DE,2019,10,electric car,0.75
+Germany,DE,2019,10,electric vehicle,58.75
+Germany,DE,2019,11,BYD,3.0
+Germany,DE,2019,11,EV charging,0.0
+Germany,DE,2019,11,Tesla,75.0
+Germany,DE,2019,11,electric car,0.25
+Germany,DE,2019,11,electric vehicle,61.5
+Germany,DE,2019,12,BYD,2.5
+Germany,DE,2019,12,EV charging,0.0
+Germany,DE,2019,12,Tesla,41.83
+Germany,DE,2019,12,electric car,0.33
+Germany,DE,2019,12,electric vehicle,57.33
+Germany,DE,2020,1,BYD,4.25
+Germany,DE,2020,1,EV charging,0.0
+Germany,DE,2020,1,Tesla,41.75
+Germany,DE,2020,1,electric car,0.0
+Germany,DE,2020,1,electric vehicle,86.0
+Germany,DE,2020,2,BYD,3.25
+Germany,DE,2020,2,EV charging,0.0
+Germany,DE,2020,2,Tesla,57.0
+Germany,DE,2020,2,electric car,0.0
+Germany,DE,2020,2,electric vehicle,75.0
+Germany,DE,2020,3,BYD,2.2
+Germany,DE,2020,3,EV charging,10.4
+Germany,DE,2020,3,Tesla,34.8
+Germany,DE,2020,3,electric car,0.0
+Germany,DE,2020,3,electric vehicle,64.4
+Germany,DE,2020,4,BYD,2.0
+Germany,DE,2020,4,EV charging,0.0
+Germany,DE,2020,4,Tesla,33.0
+Germany,DE,2020,4,electric car,0.0
+Germany,DE,2020,4,electric vehicle,47.5
+Germany,DE,2020,5,BYD,2.2
+Germany,DE,2020,5,EV charging,0.0
+Germany,DE,2020,5,Tesla,33.8
+Germany,DE,2020,5,electric car,0.0
+Germany,DE,2020,5,electric vehicle,49.6
+Germany,DE,2020,6,BYD,3.25
+Germany,DE,2020,6,EV charging,24.0
+Germany,DE,2020,6,Tesla,40.75
+Germany,DE,2020,6,electric car,0.0
+Germany,DE,2020,6,electric vehicle,59.25
+Germany,DE,2020,7,BYD,6.25
+Germany,DE,2020,7,EV charging,0.0
+Germany,DE,2020,7,Tesla,56.75
+Germany,DE,2020,7,electric car,0.0
+Germany,DE,2020,7,electric vehicle,58.5
+Germany,DE,2020,8,BYD,4.4
+Germany,DE,2020,8,EV charging,13.4
+Germany,DE,2020,8,Tesla,59.2
+Germany,DE,2020,8,electric car,0.0
+Germany,DE,2020,8,electric vehicle,53.6
+Germany,DE,2020,9,BYD,7.75
+Germany,DE,2020,9,EV charging,7.25
+Germany,DE,2020,9,Tesla,74.75
+Germany,DE,2020,9,electric car,0.0
+Germany,DE,2020,9,electric vehicle,53.0
+Germany,DE,2020,10,BYD,11.5
+Germany,DE,2020,10,EV charging,10.25
+Germany,DE,2020,10,Tesla,44.25
+Germany,DE,2020,10,electric car,0.0
+Germany,DE,2020,10,electric vehicle,60.0
+Germany,DE,2020,11,BYD,15.8
+Germany,DE,2020,11,EV charging,12.6
+Germany,DE,2020,11,Tesla,49.0
+Germany,DE,2020,11,electric car,0.0
+Germany,DE,2020,11,electric vehicle,71.8
+Germany,DE,2020,12,BYD,11.4
+Germany,DE,2020,12,EV charging,8.4
+Germany,DE,2020,12,Tesla,48.0
+Germany,DE,2020,12,electric car,0.0
+Germany,DE,2020,12,electric vehicle,60.4
+Germany,DE,2021,1,BYD,20.4
+Germany,DE,2021,1,EV charging,31.8
+Germany,DE,2021,1,Tesla,74.4
+Germany,DE,2021,1,electric car,0.2
+Germany,DE,2021,1,electric vehicle,76.2
+Germany,DE,2021,2,BYD,17.75
+Germany,DE,2021,2,EV charging,18.75
+Germany,DE,2021,2,Tesla,64.0
+Germany,DE,2021,2,electric car,0.25
+Germany,DE,2021,2,electric vehicle,64.5
+Germany,DE,2021,3,BYD,16.75
+Germany,DE,2021,3,EV charging,8.75
+Germany,DE,2021,3,Tesla,63.75
+Germany,DE,2021,3,electric car,0.0
+Germany,DE,2021,3,electric vehicle,78.5
+Germany,DE,2021,4,BYD,13.75
+Germany,DE,2021,4,EV charging,14.75
+Germany,DE,2021,4,Tesla,51.75
+Germany,DE,2021,4,electric car,0.0
+Germany,DE,2021,4,electric vehicle,71.0
+Germany,DE,2021,5,BYD,14.4
+Germany,DE,2021,5,EV charging,13.8
+Germany,DE,2021,5,Tesla,49.6
+Germany,DE,2021,5,electric car,0.0
+Germany,DE,2021,5,electric vehicle,53.8
+Germany,DE,2021,6,BYD,15.5
+Germany,DE,2021,6,EV charging,17.75
+Germany,DE,2021,6,Tesla,42.5
+Germany,DE,2021,6,electric car,0.0
+Germany,DE,2021,6,electric vehicle,67.25
+Germany,DE,2021,7,BYD,13.5
+Germany,DE,2021,7,EV charging,29.0
+Germany,DE,2021,7,Tesla,43.75
+Germany,DE,2021,7,electric car,0.25
+Germany,DE,2021,7,electric vehicle,47.75
+Germany,DE,2021,8,BYD,15.0
+Germany,DE,2021,8,EV charging,16.6
+Germany,DE,2021,8,Tesla,48.6
+Germany,DE,2021,8,electric car,0.0
+Germany,DE,2021,8,electric vehicle,56.4
+Germany,DE,2021,9,BYD,11.5
+Germany,DE,2021,9,EV charging,18.5
+Germany,DE,2021,9,Tesla,45.5
+Germany,DE,2021,9,electric car,0.25
+Germany,DE,2021,9,electric vehicle,59.25
+Germany,DE,2021,10,BYD,14.0
+Germany,DE,2021,10,EV charging,36.2
+Germany,DE,2021,10,Tesla,73.6
+Germany,DE,2021,10,electric car,0.0
+Germany,DE,2021,10,electric vehicle,68.8
+Germany,DE,2021,11,BYD,12.5
+Germany,DE,2021,11,EV charging,36.25
+Germany,DE,2021,11,Tesla,67.75
+Germany,DE,2021,11,electric car,0.0
+Germany,DE,2021,11,electric vehicle,82.5
+Germany,DE,2021,12,BYD,9.2
+Germany,DE,2021,12,EV charging,15.2
+Germany,DE,2021,12,Tesla,61.8
+Germany,DE,2021,12,electric car,0.0
+Germany,DE,2021,12,electric vehicle,37.8
+Germany,DE,2022,1,BYD,10.8
+Germany,DE,2022,1,EV charging,32.4
+Germany,DE,2022,1,Tesla,74.2
+Germany,DE,2022,1,electric car,1.0
+Germany,DE,2022,1,electric vehicle,69.4
+Germany,DE,2022,2,BYD,11.25
+Germany,DE,2022,2,EV charging,40.25
+Germany,DE,2022,2,Tesla,64.5
+Germany,DE,2022,2,electric car,1.0
+Germany,DE,2022,2,electric vehicle,77.5
+Germany,DE,2022,3,BYD,12.75
+Germany,DE,2022,3,EV charging,37.0
+Germany,DE,2022,3,Tesla,82.0
+Germany,DE,2022,3,electric car,1.0
+Germany,DE,2022,3,electric vehicle,76.75
+Germany,DE,2022,4,BYD,10.25
+Germany,DE,2022,4,EV charging,42.75
+Germany,DE,2022,4,Tesla,77.0
+Germany,DE,2022,4,electric car,1.0
+Germany,DE,2022,4,electric vehicle,60.0
+Germany,DE,2022,5,BYD,11.2
+Germany,DE,2022,5,EV charging,39.2
+Germany,DE,2022,5,Tesla,63.6
+Germany,DE,2022,5,electric car,1.0
+Germany,DE,2022,5,electric vehicle,59.0
+Germany,DE,2022,6,BYD,12.75
+Germany,DE,2022,6,EV charging,39.75
+Germany,DE,2022,6,Tesla,57.5
+Germany,DE,2022,6,electric car,1.0
+Germany,DE,2022,6,electric vehicle,70.5
+Germany,DE,2022,7,BYD,15.2
+Germany,DE,2022,7,EV charging,47.6
+Germany,DE,2022,7,Tesla,58.4
+Germany,DE,2022,7,electric car,1.0
+Germany,DE,2022,7,electric vehicle,52.8
+Germany,DE,2022,8,BYD,13.0
+Germany,DE,2022,8,EV charging,48.25
+Germany,DE,2022,8,Tesla,58.5
+Germany,DE,2022,8,electric car,1.0
+Germany,DE,2022,8,electric vehicle,63.5
+Germany,DE,2022,9,BYD,11.5
+Germany,DE,2022,9,EV charging,24.75
+Germany,DE,2022,9,Tesla,53.0
+Germany,DE,2022,9,electric car,1.0
+Germany,DE,2022,9,electric vehicle,50.25
+Germany,DE,2022,10,BYD,13.8
+Germany,DE,2022,10,EV charging,39.2
+Germany,DE,2022,10,Tesla,54.6
+Germany,DE,2022,10,electric car,1.0
+Germany,DE,2022,10,electric vehicle,53.4
+Germany,DE,2022,11,BYD,10.75
+Germany,DE,2022,11,EV charging,39.5
+Germany,DE,2022,11,Tesla,55.5
+Germany,DE,2022,11,electric car,0.75
+Germany,DE,2022,11,electric vehicle,59.25
+Germany,DE,2022,12,BYD,10.0
+Germany,DE,2022,12,EV charging,37.5
+Germany,DE,2022,12,Tesla,71.25
+Germany,DE,2022,12,electric car,1.0
+Germany,DE,2022,12,electric vehicle,54.0
+Germany,DE,2023,1,BYD,13.6
+Germany,DE,2023,1,EV charging,13.0
+Germany,DE,2023,1,Tesla,91.8
+Germany,DE,2023,1,electric car,1.0
+Germany,DE,2023,1,electric vehicle,15.0
+Germany,DE,2023,2,BYD,13.5
+Germany,DE,2023,2,EV charging,13.75
+Germany,DE,2023,2,Tesla,76.75
+Germany,DE,2023,2,electric car,1.0
+Germany,DE,2023,2,electric vehicle,17.5
+Germany,DE,2023,3,BYD,13.0
+Germany,DE,2023,3,EV charging,13.5
+Germany,DE,2023,3,Tesla,68.75
+Germany,DE,2023,3,electric car,1.0
+Germany,DE,2023,3,electric vehicle,15.0
+Germany,DE,2023,4,BYD,15.0
+Germany,DE,2023,4,EV charging,12.4
+Germany,DE,2023,4,Tesla,66.6
+Germany,DE,2023,4,electric car,1.0
+Germany,DE,2023,4,electric vehicle,16.2
+Germany,DE,2023,5,BYD,15.5
+Germany,DE,2023,5,EV charging,13.5
+Germany,DE,2023,5,Tesla,62.0
+Germany,DE,2023,5,electric car,1.0
+Germany,DE,2023,5,electric vehicle,17.25
+Germany,DE,2023,6,BYD,15.0
+Germany,DE,2023,6,EV charging,16.0
+Germany,DE,2023,6,Tesla,69.0
+Germany,DE,2023,6,electric car,1.0
+Germany,DE,2023,6,electric vehicle,17.75
+Germany,DE,2023,7,BYD,15.6
+Germany,DE,2023,7,EV charging,16.2
+Germany,DE,2023,7,Tesla,68.4
+Germany,DE,2023,7,electric car,1.0
+Germany,DE,2023,7,electric vehicle,19.6
+Germany,DE,2023,8,BYD,15.5
+Germany,DE,2023,8,EV charging,14.25
+Germany,DE,2023,8,Tesla,65.0
+Germany,DE,2023,8,electric car,1.0
+Germany,DE,2023,8,electric vehicle,13.75
+Germany,DE,2023,9,BYD,19.0
+Germany,DE,2023,9,EV charging,42.25
+Germany,DE,2023,9,Tesla,65.5
+Germany,DE,2023,9,electric car,1.0
+Germany,DE,2023,9,electric vehicle,16.75
+Germany,DE,2023,10,BYD,15.0
+Germany,DE,2023,10,EV charging,19.0
+Germany,DE,2023,10,Tesla,59.6
+Germany,DE,2023,10,electric car,1.0
+Germany,DE,2023,10,electric vehicle,16.8
+Germany,DE,2023,11,BYD,14.0
+Germany,DE,2023,11,EV charging,15.75
+Germany,DE,2023,11,Tesla,56.75
+Germany,DE,2023,11,electric car,1.0
+Germany,DE,2023,11,electric vehicle,20.0
+Germany,DE,2023,12,BYD,16.83
+Germany,DE,2023,12,EV charging,16.5
+Germany,DE,2023,12,Tesla,55.0
+Germany,DE,2023,12,electric car,1.0
+Germany,DE,2023,12,electric vehicle,23.17
+Germany,DE,2024,1,BYD,20.25
+Germany,DE,2024,1,EV charging,49.25
+Germany,DE,2024,1,Tesla,68.25
+Germany,DE,2024,1,electric car,1.0
+Germany,DE,2024,1,electric vehicle,57.0
+Germany,DE,2024,2,BYD,27.25
+Germany,DE,2024,2,EV charging,55.0
+Germany,DE,2024,2,Tesla,62.25
+Germany,DE,2024,2,electric car,1.0
+Germany,DE,2024,2,electric vehicle,47.5
+Germany,DE,2024,3,BYD,20.4
+Germany,DE,2024,3,EV charging,56.4
+Germany,DE,2024,3,Tesla,66.0
+Germany,DE,2024,3,electric car,1.0
+Germany,DE,2024,3,electric vehicle,61.2
+Germany,DE,2024,4,BYD,18.0
+Germany,DE,2024,4,EV charging,54.5
+Germany,DE,2024,4,Tesla,73.25
+Germany,DE,2024,4,electric car,1.0
+Germany,DE,2024,4,electric vehicle,71.5
+Germany,DE,2024,5,BYD,16.5
+Germany,DE,2024,5,EV charging,61.5
+Germany,DE,2024,5,Tesla,57.0
+Germany,DE,2024,5,electric car,1.0
+Germany,DE,2024,5,electric vehicle,66.5
+Germany,DE,2024,6,BYD,27.4
+Germany,DE,2024,6,EV charging,54.4
+Germany,DE,2024,6,Tesla,56.2
+Germany,DE,2024,6,electric car,1.0
+Germany,DE,2024,6,electric vehicle,65.8
+Germany,DE,2024,7,BYD,16.25
+Germany,DE,2024,7,EV charging,48.5
+Germany,DE,2024,7,Tesla,62.5
+Germany,DE,2024,7,electric car,1.0
+Germany,DE,2024,7,electric vehicle,63.75
+Germany,DE,2024,8,BYD,14.0
+Germany,DE,2024,8,EV charging,51.75
+Germany,DE,2024,8,Tesla,52.5
+Germany,DE,2024,8,electric car,1.0
+Germany,DE,2024,8,electric vehicle,71.5
+Germany,DE,2024,9,BYD,17.6
+Germany,DE,2024,9,EV charging,63.4
+Germany,DE,2024,9,Tesla,53.8
+Germany,DE,2024,9,electric car,1.0
+Germany,DE,2024,9,electric vehicle,66.6
+Germany,DE,2024,10,BYD,21.25
+Germany,DE,2024,10,EV charging,53.5
+Germany,DE,2024,10,Tesla,69.5
+Germany,DE,2024,10,electric car,1.0
+Germany,DE,2024,10,electric vehicle,62.75
+Germany,DE,2024,11,BYD,17.75
+Germany,DE,2024,11,EV charging,53.0
+Germany,DE,2024,11,Tesla,82.75
+Germany,DE,2024,11,electric car,1.0
+Germany,DE,2024,11,electric vehicle,71.5
+Germany,DE,2024,12,BYD,17.4
+Germany,DE,2024,12,EV charging,44.6
+Germany,DE,2024,12,Tesla,76.0
+Germany,DE,2024,12,electric car,1.0
+Germany,DE,2024,12,electric vehicle,66.0
+India,IN,2018,12,BYD,1.0
+India,IN,2018,12,EV charging,3.0
+India,IN,2018,12,Tesla,27.0
+India,IN,2018,12,electric car,9.0
+India,IN,2018,12,electric vehicle,19.0
+India,IN,2019,1,BYD,1.0
+India,IN,2019,1,EV charging,3.25
+India,IN,2019,1,Tesla,28.75
+India,IN,2019,1,electric car,10.5
+India,IN,2019,1,electric vehicle,23.5
+India,IN,2019,2,BYD,1.0
+India,IN,2019,2,EV charging,3.5
+India,IN,2019,2,Tesla,26.25
+India,IN,2019,2,electric car,10.25
+India,IN,2019,2,electric vehicle,23.75
+India,IN,2019,3,BYD,1.0
+India,IN,2019,3,EV charging,4.0
+India,IN,2019,3,Tesla,28.2
+India,IN,2019,3,electric car,10.2
+India,IN,2019,3,electric vehicle,24.2
+India,IN,2019,4,BYD,1.0
+India,IN,2019,4,EV charging,2.75
+India,IN,2019,4,Tesla,24.5
+India,IN,2019,4,electric car,8.5
+India,IN,2019,4,electric vehicle,21.75
+India,IN,2019,5,BYD,1.0
+India,IN,2019,5,EV charging,3.5
+India,IN,2019,5,Tesla,29.75
+India,IN,2019,5,electric car,9.25
+India,IN,2019,5,electric vehicle,21.5
+India,IN,2019,6,BYD,1.0
+India,IN,2019,6,EV charging,5.0
+India,IN,2019,6,Tesla,25.2
+India,IN,2019,6,electric car,15.4
+India,IN,2019,6,electric vehicle,31.0
+India,IN,2019,7,BYD,1.0
+India,IN,2019,7,EV charging,9.75
+India,IN,2019,7,Tesla,33.25
+India,IN,2019,7,electric car,35.25
+India,IN,2019,7,electric vehicle,48.75
+India,IN,2019,8,BYD,1.0
+India,IN,2019,8,EV charging,7.75
+India,IN,2019,8,Tesla,31.5
+India,IN,2019,8,electric car,20.25
+India,IN,2019,8,electric vehicle,40.5
+India,IN,2019,9,BYD,1.2
+India,IN,2019,9,EV charging,6.2
+India,IN,2019,9,Tesla,31.2
+India,IN,2019,9,electric car,17.4
+India,IN,2019,9,electric vehicle,41.8
+India,IN,2019,10,BYD,1.0
+India,IN,2019,10,EV charging,6.25
+India,IN,2019,10,Tesla,28.75
+India,IN,2019,10,electric car,16.25
+India,IN,2019,10,electric vehicle,53.25
+India,IN,2019,11,BYD,1.0
+India,IN,2019,11,EV charging,6.25
+India,IN,2019,11,Tesla,57.0
+India,IN,2019,11,electric car,17.0
+India,IN,2019,11,electric vehicle,38.25
+India,IN,2019,12,BYD,1.0
+India,IN,2019,12,EV charging,10.5
+India,IN,2019,12,Tesla,35.17
+India,IN,2019,12,electric car,18.83
+India,IN,2019,12,electric vehicle,48.0
+India,IN,2020,1,BYD,1.0
+India,IN,2020,1,EV charging,21.75
+India,IN,2020,1,Tesla,24.0
+India,IN,2020,1,electric car,14.5
+India,IN,2020,1,electric vehicle,84.75
+India,IN,2020,2,BYD,0.75
+India,IN,2020,2,EV charging,22.25
+India,IN,2020,2,Tesla,29.0
+India,IN,2020,2,electric car,15.5
+India,IN,2020,2,electric vehicle,84.25
+India,IN,2020,3,BYD,0.6
+India,IN,2020,3,EV charging,10.4
+India,IN,2020,3,Tesla,21.4
+India,IN,2020,3,electric car,8.4
+India,IN,2020,3,electric vehicle,59.8
+India,IN,2020,4,BYD,1.0
+India,IN,2020,4,EV charging,8.25
+India,IN,2020,4,Tesla,22.25
+India,IN,2020,4,electric car,6.25
+India,IN,2020,4,electric vehicle,49.75
+India,IN,2020,5,BYD,0.4
+India,IN,2020,5,EV charging,8.4
+India,IN,2020,5,Tesla,25.0
+India,IN,2020,5,electric car,7.0
+India,IN,2020,5,electric vehicle,57.8
+India,IN,2020,6,BYD,0.5
+India,IN,2020,6,EV charging,13.75
+India,IN,2020,6,Tesla,27.5
+India,IN,2020,6,electric car,9.0
+India,IN,2020,6,electric vehicle,57.5
+India,IN,2020,7,BYD,0.0
+India,IN,2020,7,EV charging,16.25
+India,IN,2020,7,Tesla,39.0
+India,IN,2020,7,electric car,11.25
+India,IN,2020,7,electric vehicle,55.5
+India,IN,2020,8,BYD,0.4
+India,IN,2020,8,EV charging,16.4
+India,IN,2020,8,Tesla,36.2
+India,IN,2020,8,electric car,11.4
+India,IN,2020,8,electric vehicle,73.0
+India,IN,2020,9,BYD,0.0
+India,IN,2020,9,EV charging,18.5
+India,IN,2020,9,Tesla,39.0
+India,IN,2020,9,electric car,11.0
+India,IN,2020,9,electric vehicle,68.5
+India,IN,2020,10,BYD,0.0
+India,IN,2020,10,EV charging,17.0
+India,IN,2020,10,Tesla,29.25
+India,IN,2020,10,electric car,11.5
+India,IN,2020,10,electric vehicle,73.5
+India,IN,2020,11,BYD,0.4
+India,IN,2020,11,EV charging,23.0
+India,IN,2020,11,Tesla,33.8
+India,IN,2020,11,electric car,12.4
+India,IN,2020,11,electric vehicle,76.0
+India,IN,2020,12,BYD,0.8
+India,IN,2020,12,EV charging,23.4
+India,IN,2020,12,Tesla,54.8
+India,IN,2020,12,electric car,13.6
+India,IN,2020,12,electric vehicle,76.2
+India,IN,2021,1,BYD,0.0
+India,IN,2021,1,EV charging,18.4
+India,IN,2021,1,Tesla,55.4
+India,IN,2021,1,electric car,8.6
+India,IN,2021,1,electric vehicle,49.2
+India,IN,2021,2,BYD,0.0
+India,IN,2021,2,EV charging,23.5
+India,IN,2021,2,Tesla,25.0
+India,IN,2021,2,electric car,10.0
+India,IN,2021,2,electric vehicle,66.0
+India,IN,2021,3,BYD,0.0
+India,IN,2021,3,EV charging,17.5
+India,IN,2021,3,Tesla,21.75
+India,IN,2021,3,electric car,8.25
+India,IN,2021,3,electric vehicle,58.25
+India,IN,2021,4,BYD,0.0
+India,IN,2021,4,EV charging,12.75
+India,IN,2021,4,Tesla,17.5
+India,IN,2021,4,electric car,5.5
+India,IN,2021,4,electric vehicle,41.75
+India,IN,2021,5,BYD,0.0
+India,IN,2021,5,EV charging,12.0
+India,IN,2021,5,Tesla,19.0
+India,IN,2021,5,electric car,5.4
+India,IN,2021,5,electric vehicle,44.4
+India,IN,2021,6,BYD,0.0
+India,IN,2021,6,EV charging,17.0
+India,IN,2021,6,Tesla,15.5
+India,IN,2021,6,electric car,7.25
+India,IN,2021,6,electric vehicle,64.25
+India,IN,2021,7,BYD,0.0
+India,IN,2021,7,EV charging,30.5
+India,IN,2021,7,Tesla,18.25
+India,IN,2021,7,electric car,9.5
+India,IN,2021,7,electric vehicle,78.25
+India,IN,2021,8,BYD,0.0
+India,IN,2021,8,EV charging,27.0
+India,IN,2021,8,Tesla,16.0
+India,IN,2021,8,electric car,8.0
+India,IN,2021,8,electric vehicle,70.8
+India,IN,2021,9,BYD,0.0
+India,IN,2021,9,EV charging,27.5
+India,IN,2021,9,Tesla,14.25
+India,IN,2021,9,electric car,7.5
+India,IN,2021,9,electric vehicle,66.5
+India,IN,2021,10,BYD,0.2
+India,IN,2021,10,EV charging,29.2
+India,IN,2021,10,Tesla,17.2
+India,IN,2021,10,electric car,8.2
+India,IN,2021,10,electric vehicle,66.6
+India,IN,2021,11,BYD,0.5
+India,IN,2021,11,EV charging,27.5
+India,IN,2021,11,Tesla,22.5
+India,IN,2021,11,electric car,8.5
+India,IN,2021,11,electric vehicle,67.5
+India,IN,2021,12,BYD,1.2
+India,IN,2021,12,EV charging,22.0
+India,IN,2021,12,Tesla,27.4
+India,IN,2021,12,electric car,10.2
+India,IN,2021,12,electric vehicle,64.2
+India,IN,2022,1,BYD,2.2
+India,IN,2022,1,EV charging,33.0
+India,IN,2022,1,Tesla,82.2
+India,IN,2022,1,electric car,26.6
+India,IN,2022,1,electric vehicle,82.6
+India,IN,2022,2,BYD,2.0
+India,IN,2022,2,EV charging,32.75
+India,IN,2022,2,Tesla,69.0
+India,IN,2022,2,electric car,29.5
+India,IN,2022,2,electric vehicle,90.0
+India,IN,2022,3,BYD,3.0
+India,IN,2022,3,EV charging,33.0
+India,IN,2022,3,Tesla,56.5
+India,IN,2022,3,electric car,29.0
+India,IN,2022,3,electric vehicle,92.25
+India,IN,2022,4,BYD,3.75
+India,IN,2022,4,EV charging,34.75
+India,IN,2022,4,Tesla,68.0
+India,IN,2022,4,electric car,34.0
+India,IN,2022,4,electric vehicle,83.75
+India,IN,2022,5,BYD,3.4
+India,IN,2022,5,EV charging,30.6
+India,IN,2022,5,Tesla,67.0
+India,IN,2022,5,electric car,29.2
+India,IN,2022,5,electric vehicle,68.2
+India,IN,2022,6,BYD,4.5
+India,IN,2022,6,EV charging,25.5
+India,IN,2022,6,Tesla,54.0
+India,IN,2022,6,electric car,23.75
+India,IN,2022,6,electric vehicle,60.75
+India,IN,2022,7,BYD,4.4
+India,IN,2022,7,EV charging,23.0
+India,IN,2022,7,Tesla,53.4
+India,IN,2022,7,electric car,22.6
+India,IN,2022,7,electric vehicle,64.6
+India,IN,2022,8,BYD,5.75
+India,IN,2022,8,EV charging,24.75
+India,IN,2022,8,Tesla,50.5
+India,IN,2022,8,electric car,29.0
+India,IN,2022,8,electric vehicle,63.0
+India,IN,2022,9,BYD,5.5
+India,IN,2022,9,EV charging,27.5
+India,IN,2022,9,Tesla,56.5
+India,IN,2022,9,electric car,24.0
+India,IN,2022,9,electric vehicle,68.75
+India,IN,2022,10,BYD,12.2
+India,IN,2022,10,EV charging,30.0
+India,IN,2022,10,Tesla,47.4
+India,IN,2022,10,electric car,26.8
+India,IN,2022,10,electric vehicle,71.0
+India,IN,2022,11,BYD,11.0
+India,IN,2022,11,EV charging,27.25
+India,IN,2022,11,Tesla,49.0
+India,IN,2022,11,electric car,25.5
+India,IN,2022,11,electric vehicle,68.5
+India,IN,2022,12,BYD,10.5
+India,IN,2022,12,EV charging,26.25
+India,IN,2022,12,Tesla,54.75
+India,IN,2022,12,electric car,26.5
+India,IN,2022,12,electric vehicle,64.5
+India,IN,2023,1,BYD,11.0
+India,IN,2023,1,EV charging,34.2
+India,IN,2023,1,Tesla,74.8
+India,IN,2023,1,electric car,32.4
+India,IN,2023,1,electric vehicle,86.8
+India,IN,2023,2,BYD,11.0
+India,IN,2023,2,EV charging,36.0
+India,IN,2023,2,Tesla,67.75
+India,IN,2023,2,electric car,29.75
+India,IN,2023,2,electric vehicle,91.25
+India,IN,2023,3,BYD,10.5
+India,IN,2023,3,EV charging,36.0
+India,IN,2023,3,Tesla,51.5
+India,IN,2023,3,electric car,27.25
+India,IN,2023,3,electric vehicle,85.5
+India,IN,2023,4,BYD,10.8
+India,IN,2023,4,EV charging,41.0
+India,IN,2023,4,Tesla,45.4
+India,IN,2023,4,electric car,34.6
+India,IN,2023,4,electric vehicle,78.0
+India,IN,2023,5,BYD,10.25
+India,IN,2023,5,EV charging,39.75
+India,IN,2023,5,Tesla,45.75
+India,IN,2023,5,electric car,36.5
+India,IN,2023,5,electric vehicle,78.0
+India,IN,2023,6,BYD,11.0
+India,IN,2023,6,EV charging,39.0
+India,IN,2023,6,Tesla,60.25
+India,IN,2023,6,electric car,32.5
+India,IN,2023,6,electric vehicle,80.5
+India,IN,2023,7,BYD,12.0
+India,IN,2023,7,EV charging,39.2
+India,IN,2023,7,Tesla,67.8
+India,IN,2023,7,electric car,30.4
+India,IN,2023,7,electric vehicle,82.6
+India,IN,2023,8,BYD,9.5
+India,IN,2023,8,EV charging,40.75
+India,IN,2023,8,Tesla,61.0
+India,IN,2023,8,electric car,31.5
+India,IN,2023,8,electric vehicle,81.5
+India,IN,2023,9,BYD,9.75
+India,IN,2023,9,EV charging,43.75
+India,IN,2023,9,Tesla,51.25
+India,IN,2023,9,electric car,30.75
+India,IN,2023,9,electric vehicle,83.25
+India,IN,2023,10,BYD,8.6
+India,IN,2023,10,EV charging,37.2
+India,IN,2023,10,Tesla,51.4
+India,IN,2023,10,electric car,28.2
+India,IN,2023,10,electric vehicle,73.8
+India,IN,2023,11,BYD,8.5
+India,IN,2023,11,EV charging,39.75
+India,IN,2023,11,Tesla,44.75
+India,IN,2023,11,electric car,28.75
+India,IN,2023,11,electric vehicle,82.25
+India,IN,2023,12,BYD,10.67
+India,IN,2023,12,EV charging,43.33
+India,IN,2023,12,Tesla,47.17
+India,IN,2023,12,electric car,30.5
+India,IN,2023,12,electric vehicle,91.83
+India,IN,2024,1,BYD,9.25
+India,IN,2024,1,EV charging,44.0
+India,IN,2024,1,Tesla,38.0
+India,IN,2024,1,electric car,23.5
+India,IN,2024,1,electric vehicle,86.5
+India,IN,2024,2,BYD,11.0
+India,IN,2024,2,EV charging,43.5
+India,IN,2024,2,Tesla,34.5
+India,IN,2024,2,electric car,22.5
+India,IN,2024,2,electric vehicle,81.75
+India,IN,2024,3,BYD,14.8
+India,IN,2024,3,EV charging,44.4
+India,IN,2024,3,Tesla,33.6
+India,IN,2024,3,electric car,19.4
+India,IN,2024,3,electric vehicle,72.6
+India,IN,2024,4,BYD,12.75
+India,IN,2024,4,EV charging,43.25
+India,IN,2024,4,Tesla,45.0
+India,IN,2024,4,electric car,18.75
+India,IN,2024,4,electric vehicle,64.5
+India,IN,2024,5,BYD,13.5
+India,IN,2024,5,EV charging,41.5
+India,IN,2024,5,Tesla,30.5
+India,IN,2024,5,electric car,18.5
+India,IN,2024,5,electric vehicle,59.5
+India,IN,2024,6,BYD,13.8
+India,IN,2024,6,EV charging,36.8
+India,IN,2024,6,Tesla,33.6
+India,IN,2024,6,electric car,17.2
+India,IN,2024,6,electric vehicle,60.0
+India,IN,2024,7,BYD,17.75
+India,IN,2024,7,EV charging,38.0
+India,IN,2024,7,Tesla,39.75
+India,IN,2024,7,electric car,19.75
+India,IN,2024,7,electric vehicle,69.25
+India,IN,2024,8,BYD,17.25
+India,IN,2024,8,EV charging,41.5
+India,IN,2024,8,Tesla,37.5
+India,IN,2024,8,electric car,17.75
+India,IN,2024,8,electric vehicle,65.75
+India,IN,2024,9,BYD,17.6
+India,IN,2024,9,EV charging,44.8
+India,IN,2024,9,Tesla,31.6
+India,IN,2024,9,electric car,18.2
+India,IN,2024,9,electric vehicle,68.8
+India,IN,2024,10,BYD,21.5
+India,IN,2024,10,EV charging,46.25
+India,IN,2024,10,Tesla,43.25
+India,IN,2024,10,electric car,18.0
+India,IN,2024,10,electric vehicle,62.75
+India,IN,2024,11,BYD,23.25
+India,IN,2024,11,EV charging,51.25
+India,IN,2024,11,Tesla,67.25
+India,IN,2024,11,electric car,21.25
+India,IN,2024,11,electric vehicle,71.25
+India,IN,2024,12,BYD,17.8
+India,IN,2024,12,EV charging,50.0
+India,IN,2024,12,Tesla,45.6
+India,IN,2024,12,electric car,20.4
+India,IN,2024,12,electric vehicle,64.0
+Netherlands,NL,2018,12,BYD,0.0
+Netherlands,NL,2018,12,EV charging,0.0
+Netherlands,NL,2018,12,Tesla,36.0
+Netherlands,NL,2018,12,electric car,1.0
+Netherlands,NL,2018,12,electric vehicle,0.0
+Netherlands,NL,2019,1,BYD,0.0
+Netherlands,NL,2019,1,EV charging,0.0
+Netherlands,NL,2019,1,Tesla,33.0
+Netherlands,NL,2019,1,electric car,1.0
+Netherlands,NL,2019,1,electric vehicle,0.0
+Netherlands,NL,2019,2,BYD,0.0
+Netherlands,NL,2019,2,EV charging,0.0
+Netherlands,NL,2019,2,Tesla,33.25
+Netherlands,NL,2019,2,electric car,1.0
+Netherlands,NL,2019,2,electric vehicle,23.0
+Netherlands,NL,2019,3,BYD,0.0
+Netherlands,NL,2019,3,EV charging,0.0
+Netherlands,NL,2019,3,Tesla,40.6
+Netherlands,NL,2019,3,electric car,1.0
+Netherlands,NL,2019,3,electric vehicle,0.0
+Netherlands,NL,2019,4,BYD,0.0
+Netherlands,NL,2019,4,EV charging,0.0
+Netherlands,NL,2019,4,Tesla,39.75
+Netherlands,NL,2019,4,electric car,1.0
+Netherlands,NL,2019,4,electric vehicle,37.75
+Netherlands,NL,2019,5,BYD,0.0
+Netherlands,NL,2019,5,EV charging,0.0
+Netherlands,NL,2019,5,Tesla,39.5
+Netherlands,NL,2019,5,electric car,1.0
+Netherlands,NL,2019,5,electric vehicle,18.0
+Netherlands,NL,2019,6,BYD,0.0
+Netherlands,NL,2019,6,EV charging,0.0
+Netherlands,NL,2019,6,Tesla,38.2
+Netherlands,NL,2019,6,electric car,1.0
+Netherlands,NL,2019,6,electric vehicle,20.0
+Netherlands,NL,2019,7,BYD,0.0
+Netherlands,NL,2019,7,EV charging,0.0
+Netherlands,NL,2019,7,Tesla,40.5
+Netherlands,NL,2019,7,electric car,1.0
+Netherlands,NL,2019,7,electric vehicle,0.0
+Netherlands,NL,2019,8,BYD,0.0
+Netherlands,NL,2019,8,EV charging,0.0
+Netherlands,NL,2019,8,Tesla,40.25
+Netherlands,NL,2019,8,electric car,1.0
+Netherlands,NL,2019,8,electric vehicle,0.0
+Netherlands,NL,2019,9,BYD,0.0
+Netherlands,NL,2019,9,EV charging,14.8
+Netherlands,NL,2019,9,Tesla,47.2
+Netherlands,NL,2019,9,electric car,1.0
+Netherlands,NL,2019,9,electric vehicle,0.0
+Netherlands,NL,2019,10,BYD,0.0
+Netherlands,NL,2019,10,EV charging,0.0
+Netherlands,NL,2019,10,Tesla,45.25
+Netherlands,NL,2019,10,electric car,1.0
+Netherlands,NL,2019,10,electric vehicle,0.0
+Netherlands,NL,2019,11,BYD,0.0
+Netherlands,NL,2019,11,EV charging,0.0
+Netherlands,NL,2019,11,Tesla,71.75
+Netherlands,NL,2019,11,electric car,1.0
+Netherlands,NL,2019,11,electric vehicle,19.75
+Netherlands,NL,2019,12,BYD,0.17
+Netherlands,NL,2019,12,EV charging,11.5
+Netherlands,NL,2019,12,Tesla,62.5
+Netherlands,NL,2019,12,electric car,1.5
+Netherlands,NL,2019,12,electric vehicle,0.0
+Netherlands,NL,2020,1,BYD,0.25
+Netherlands,NL,2020,1,EV charging,52.75
+Netherlands,NL,2020,1,Tesla,66.25
+Netherlands,NL,2020,1,electric car,1.75
+Netherlands,NL,2020,1,electric vehicle,34.75
+Netherlands,NL,2020,2,BYD,0.0
+Netherlands,NL,2020,2,EV charging,16.0
+Netherlands,NL,2020,2,Tesla,72.25
+Netherlands,NL,2020,2,electric car,1.25
+Netherlands,NL,2020,2,electric vehicle,16.75
+Netherlands,NL,2020,3,BYD,0.4
+Netherlands,NL,2020,3,EV charging,0.0
+Netherlands,NL,2020,3,Tesla,43.8
+Netherlands,NL,2020,3,electric car,1.2
+Netherlands,NL,2020,3,electric vehicle,13.2
+Netherlands,NL,2020,4,BYD,0.0
+Netherlands,NL,2020,4,EV charging,15.75
+Netherlands,NL,2020,4,Tesla,38.25
+Netherlands,NL,2020,4,electric car,0.75
+Netherlands,NL,2020,4,electric vehicle,0.0
+Netherlands,NL,2020,5,BYD,0.4
+Netherlands,NL,2020,5,EV charging,11.4
+Netherlands,NL,2020,5,Tesla,41.6
+Netherlands,NL,2020,5,electric car,1.0
+Netherlands,NL,2020,5,electric vehicle,0.0
+Netherlands,NL,2020,6,BYD,0.0
+Netherlands,NL,2020,6,EV charging,14.75
+Netherlands,NL,2020,6,Tesla,45.5
+Netherlands,NL,2020,6,electric car,1.25
+Netherlands,NL,2020,6,electric vehicle,37.25
+Netherlands,NL,2020,7,BYD,0.25
+Netherlands,NL,2020,7,EV charging,17.0
+Netherlands,NL,2020,7,Tesla,64.25
+Netherlands,NL,2020,7,electric car,1.0
+Netherlands,NL,2020,7,electric vehicle,25.0
+Netherlands,NL,2020,8,BYD,0.0
+Netherlands,NL,2020,8,EV charging,12.0
+Netherlands,NL,2020,8,Tesla,62.2
+Netherlands,NL,2020,8,electric car,1.0
+Netherlands,NL,2020,8,electric vehicle,14.0
+Netherlands,NL,2020,9,BYD,1.0
+Netherlands,NL,2020,9,EV charging,51.75
+Netherlands,NL,2020,9,Tesla,72.5
+Netherlands,NL,2020,9,electric car,1.25
+Netherlands,NL,2020,9,electric vehicle,24.0
+Netherlands,NL,2020,10,BYD,0.5
+Netherlands,NL,2020,10,EV charging,0.0
+Netherlands,NL,2020,10,Tesla,50.0
+Netherlands,NL,2020,10,electric car,1.0
+Netherlands,NL,2020,10,electric vehicle,0.0
+Netherlands,NL,2020,11,BYD,1.2
+Netherlands,NL,2020,11,EV charging,15.8
+Netherlands,NL,2020,11,Tesla,49.0
+Netherlands,NL,2020,11,electric car,1.0
+Netherlands,NL,2020,11,electric vehicle,14.2
+Netherlands,NL,2020,12,BYD,1.0
+Netherlands,NL,2020,12,EV charging,0.0
+Netherlands,NL,2020,12,Tesla,59.6
+Netherlands,NL,2020,12,electric car,1.4
+Netherlands,NL,2020,12,electric vehicle,0.0
+Netherlands,NL,2021,1,BYD,1.2
+Netherlands,NL,2021,1,EV charging,30.0
+Netherlands,NL,2021,1,Tesla,86.2
+Netherlands,NL,2021,1,electric car,2.0
+Netherlands,NL,2021,1,electric vehicle,18.2
+Netherlands,NL,2021,2,BYD,1.5
+Netherlands,NL,2021,2,EV charging,29.75
+Netherlands,NL,2021,2,Tesla,83.25
+Netherlands,NL,2021,2,electric car,2.0
+Netherlands,NL,2021,2,electric vehicle,42.0
+Netherlands,NL,2021,3,BYD,1.0
+Netherlands,NL,2021,3,EV charging,12.75
+Netherlands,NL,2021,3,Tesla,75.25
+Netherlands,NL,2021,3,electric car,2.0
+Netherlands,NL,2021,3,electric vehicle,28.0
+Netherlands,NL,2021,4,BYD,1.0
+Netherlands,NL,2021,4,EV charging,0.0
+Netherlands,NL,2021,4,Tesla,68.25
+Netherlands,NL,2021,4,electric car,2.0
+Netherlands,NL,2021,4,electric vehicle,29.5
+Netherlands,NL,2021,5,BYD,1.0
+Netherlands,NL,2021,5,EV charging,9.4
+Netherlands,NL,2021,5,Tesla,69.2
+Netherlands,NL,2021,5,electric car,2.0
+Netherlands,NL,2021,5,electric vehicle,10.0
+Netherlands,NL,2021,6,BYD,1.0
+Netherlands,NL,2021,6,EV charging,17.25
+Netherlands,NL,2021,6,Tesla,59.75
+Netherlands,NL,2021,6,electric car,2.0
+Netherlands,NL,2021,6,electric vehicle,0.0
+Netherlands,NL,2021,7,BYD,1.0
+Netherlands,NL,2021,7,EV charging,55.75
+Netherlands,NL,2021,7,Tesla,62.75
+Netherlands,NL,2021,7,electric car,2.0
+Netherlands,NL,2021,7,electric vehicle,0.0
+Netherlands,NL,2021,8,BYD,1.0
+Netherlands,NL,2021,8,EV charging,0.0
+Netherlands,NL,2021,8,Tesla,62.4
+Netherlands,NL,2021,8,electric car,1.8
+Netherlands,NL,2021,8,electric vehicle,11.4
+Netherlands,NL,2021,9,BYD,1.0
+Netherlands,NL,2021,9,EV charging,14.5
+Netherlands,NL,2021,9,Tesla,60.75
+Netherlands,NL,2021,9,electric car,2.25
+Netherlands,NL,2021,9,electric vehicle,28.5
+Netherlands,NL,2021,10,BYD,1.0
+Netherlands,NL,2021,10,EV charging,38.2
+Netherlands,NL,2021,10,Tesla,71.8
+Netherlands,NL,2021,10,electric car,2.2
+Netherlands,NL,2021,10,electric vehicle,26.0
+Netherlands,NL,2021,11,BYD,1.0
+Netherlands,NL,2021,11,EV charging,27.5
+Netherlands,NL,2021,11,Tesla,70.0
+Netherlands,NL,2021,11,electric car,2.0
+Netherlands,NL,2021,11,electric vehicle,13.75
+Netherlands,NL,2021,12,BYD,1.0
+Netherlands,NL,2021,12,EV charging,34.2
+Netherlands,NL,2021,12,Tesla,69.2
+Netherlands,NL,2021,12,electric car,2.0
+Netherlands,NL,2021,12,electric vehicle,0.0
+Netherlands,NL,2022,1,BYD,1.2
+Netherlands,NL,2022,1,EV charging,38.6
+Netherlands,NL,2022,1,Tesla,75.8
+Netherlands,NL,2022,1,electric car,2.8
+Netherlands,NL,2022,1,electric vehicle,13.8
+Netherlands,NL,2022,2,BYD,1.0
+Netherlands,NL,2022,2,EV charging,41.5
+Netherlands,NL,2022,2,Tesla,64.75
+Netherlands,NL,2022,2,electric car,3.0
+Netherlands,NL,2022,2,electric vehicle,35.75
+Netherlands,NL,2022,3,BYD,1.0
+Netherlands,NL,2022,3,EV charging,42.75
+Netherlands,NL,2022,3,Tesla,67.5
+Netherlands,NL,2022,3,electric car,3.5
+Netherlands,NL,2022,3,electric vehicle,32.0
+Netherlands,NL,2022,4,BYD,1.0
+Netherlands,NL,2022,4,EV charging,46.25
+Netherlands,NL,2022,4,Tesla,69.75
+Netherlands,NL,2022,4,electric car,3.0
+Netherlands,NL,2022,4,electric vehicle,22.0
+Netherlands,NL,2022,5,BYD,1.0
+Netherlands,NL,2022,5,EV charging,43.8
+Netherlands,NL,2022,5,Tesla,68.0
+Netherlands,NL,2022,5,electric car,2.8
+Netherlands,NL,2022,5,electric vehicle,27.6
+Netherlands,NL,2022,6,BYD,1.0
+Netherlands,NL,2022,6,EV charging,41.5
+Netherlands,NL,2022,6,Tesla,67.0
+Netherlands,NL,2022,6,electric car,3.0
+Netherlands,NL,2022,6,electric vehicle,26.75
+Netherlands,NL,2022,7,BYD,2.6
+Netherlands,NL,2022,7,EV charging,49.2
+Netherlands,NL,2022,7,Tesla,65.0
+Netherlands,NL,2022,7,electric car,3.0
+Netherlands,NL,2022,7,electric vehicle,15.4
+Netherlands,NL,2022,8,BYD,2.75
+Netherlands,NL,2022,8,EV charging,50.0
+Netherlands,NL,2022,8,Tesla,68.5
+Netherlands,NL,2022,8,electric car,3.0
+Netherlands,NL,2022,8,electric vehicle,16.0
+Netherlands,NL,2022,9,BYD,2.25
+Netherlands,NL,2022,9,EV charging,47.25
+Netherlands,NL,2022,9,Tesla,60.5
+Netherlands,NL,2022,9,electric car,2.5
+Netherlands,NL,2022,9,electric vehicle,7.75
+Netherlands,NL,2022,10,BYD,3.4
+Netherlands,NL,2022,10,EV charging,45.8
+Netherlands,NL,2022,10,Tesla,64.4
+Netherlands,NL,2022,10,electric car,2.8
+Netherlands,NL,2022,10,electric vehicle,28.0
+Netherlands,NL,2022,11,BYD,3.0
+Netherlands,NL,2022,11,EV charging,45.25
+Netherlands,NL,2022,11,Tesla,63.5
+Netherlands,NL,2022,11,electric car,2.5
+Netherlands,NL,2022,11,electric vehicle,19.0
+Netherlands,NL,2022,12,BYD,3.75
+Netherlands,NL,2022,12,EV charging,44.5
+Netherlands,NL,2022,12,Tesla,81.75
+Netherlands,NL,2022,12,electric car,2.25
+Netherlands,NL,2022,12,electric vehicle,25.0
+Netherlands,NL,2023,1,BYD,16.4
+Netherlands,NL,2023,1,EV charging,61.2
+Netherlands,NL,2023,1,Tesla,97.0
+Netherlands,NL,2023,1,electric car,3.0
+Netherlands,NL,2023,1,electric vehicle,15.2
+Netherlands,NL,2023,2,BYD,16.5
+Netherlands,NL,2023,2,EV charging,60.75
+Netherlands,NL,2023,2,Tesla,85.0
+Netherlands,NL,2023,2,electric car,3.0
+Netherlands,NL,2023,2,electric vehicle,0.0
+Netherlands,NL,2023,3,BYD,4.25
+Netherlands,NL,2023,3,EV charging,58.25
+Netherlands,NL,2023,3,Tesla,74.5
+Netherlands,NL,2023,3,electric car,2.5
+Netherlands,NL,2023,3,electric vehicle,29.0
+Netherlands,NL,2023,4,BYD,7.8
+Netherlands,NL,2023,4,EV charging,65.8
+Netherlands,NL,2023,4,Tesla,79.4
+Netherlands,NL,2023,4,electric car,2.8
+Netherlands,NL,2023,4,electric vehicle,35.6
+Netherlands,NL,2023,5,BYD,6.75
+Netherlands,NL,2023,5,EV charging,69.5
+Netherlands,NL,2023,5,Tesla,73.75
+Netherlands,NL,2023,5,electric car,2.75
+Netherlands,NL,2023,5,electric vehicle,0.0
+Netherlands,NL,2023,6,BYD,9.5
+Netherlands,NL,2023,6,EV charging,58.0
+Netherlands,NL,2023,6,Tesla,75.5
+Netherlands,NL,2023,6,electric car,2.75
+Netherlands,NL,2023,6,electric vehicle,19.0
+Netherlands,NL,2023,7,BYD,5.8
+Netherlands,NL,2023,7,EV charging,68.0
+Netherlands,NL,2023,7,Tesla,84.4
+Netherlands,NL,2023,7,electric car,3.0
+Netherlands,NL,2023,7,electric vehicle,19.6
+Netherlands,NL,2023,8,BYD,6.5
+Netherlands,NL,2023,8,EV charging,69.0
+Netherlands,NL,2023,8,Tesla,81.25
+Netherlands,NL,2023,8,electric car,3.0
+Netherlands,NL,2023,8,electric vehicle,12.25
+Netherlands,NL,2023,9,BYD,12.75
+Netherlands,NL,2023,9,EV charging,72.5
+Netherlands,NL,2023,9,Tesla,83.25
+Netherlands,NL,2023,9,electric car,3.25
+Netherlands,NL,2023,9,electric vehicle,9.5
+Netherlands,NL,2023,10,BYD,11.6
+Netherlands,NL,2023,10,EV charging,76.4
+Netherlands,NL,2023,10,Tesla,79.8
+Netherlands,NL,2023,10,electric car,3.0
+Netherlands,NL,2023,10,electric vehicle,53.4
+Netherlands,NL,2023,11,BYD,6.25
+Netherlands,NL,2023,11,EV charging,52.25
+Netherlands,NL,2023,11,Tesla,80.0
+Netherlands,NL,2023,11,electric car,3.0
+Netherlands,NL,2023,11,electric vehicle,27.0
+Netherlands,NL,2023,12,BYD,12.83
+Netherlands,NL,2023,12,EV charging,57.5
+Netherlands,NL,2023,12,Tesla,82.0
+Netherlands,NL,2023,12,electric car,3.17
+Netherlands,NL,2023,12,electric vehicle,8.0
+Netherlands,NL,2024,1,BYD,10.5
+Netherlands,NL,2024,1,EV charging,54.5
+Netherlands,NL,2024,1,Tesla,72.0
+Netherlands,NL,2024,1,electric car,2.75
+Netherlands,NL,2024,1,electric vehicle,6.75
+Netherlands,NL,2024,2,BYD,12.25
+Netherlands,NL,2024,2,EV charging,59.0
+Netherlands,NL,2024,2,Tesla,69.0
+Netherlands,NL,2024,2,electric car,2.75
+Netherlands,NL,2024,2,electric vehicle,17.25
+Netherlands,NL,2024,3,BYD,10.6
+Netherlands,NL,2024,3,EV charging,57.6
+Netherlands,NL,2024,3,Tesla,72.8
+Netherlands,NL,2024,3,electric car,2.8
+Netherlands,NL,2024,3,electric vehicle,19.6
+Netherlands,NL,2024,4,BYD,14.0
+Netherlands,NL,2024,4,EV charging,62.0
+Netherlands,NL,2024,4,Tesla,80.0
+Netherlands,NL,2024,4,electric car,2.5
+Netherlands,NL,2024,4,electric vehicle,16.0
+Netherlands,NL,2024,5,BYD,12.25
+Netherlands,NL,2024,5,EV charging,52.5
+Netherlands,NL,2024,5,Tesla,64.75
+Netherlands,NL,2024,5,electric car,2.25
+Netherlands,NL,2024,5,electric vehicle,18.5
+Netherlands,NL,2024,6,BYD,17.0
+Netherlands,NL,2024,6,EV charging,42.0
+Netherlands,NL,2024,6,Tesla,67.6
+Netherlands,NL,2024,6,electric car,2.2
+Netherlands,NL,2024,6,electric vehicle,20.2
+Netherlands,NL,2024,7,BYD,9.75
+Netherlands,NL,2024,7,EV charging,60.5
+Netherlands,NL,2024,7,Tesla,71.0
+Netherlands,NL,2024,7,electric car,2.5
+Netherlands,NL,2024,7,electric vehicle,9.5
+Netherlands,NL,2024,8,BYD,8.25
+Netherlands,NL,2024,8,EV charging,63.75
+Netherlands,NL,2024,8,Tesla,66.5
+Netherlands,NL,2024,8,electric car,2.25
+Netherlands,NL,2024,8,electric vehicle,18.0
+Netherlands,NL,2024,9,BYD,10.6
+Netherlands,NL,2024,9,EV charging,53.4
+Netherlands,NL,2024,9,Tesla,65.2
+Netherlands,NL,2024,9,electric car,2.6
+Netherlands,NL,2024,9,electric vehicle,14.0
+Netherlands,NL,2024,10,BYD,12.0
+Netherlands,NL,2024,10,EV charging,41.75
+Netherlands,NL,2024,10,Tesla,76.25
+Netherlands,NL,2024,10,electric car,2.0
+Netherlands,NL,2024,10,electric vehicle,25.0
+Netherlands,NL,2024,11,BYD,9.75
+Netherlands,NL,2024,11,EV charging,55.5
+Netherlands,NL,2024,11,Tesla,83.25
+Netherlands,NL,2024,11,electric car,2.0
+Netherlands,NL,2024,11,electric vehicle,0.0
+Netherlands,NL,2024,12,BYD,9.2
+Netherlands,NL,2024,12,EV charging,45.0
+Netherlands,NL,2024,12,Tesla,91.4
+Netherlands,NL,2024,12,electric car,2.0
+Netherlands,NL,2024,12,electric vehicle,28.8
+Norway,NO,2018,12,BYD,0.0
+Norway,NO,2018,12,EV charging,0.0
+Norway,NO,2018,12,Tesla,38.0
+Norway,NO,2018,12,electric car,1.0
+Norway,NO,2018,12,electric vehicle,0.0
+Norway,NO,2019,1,BYD,0.0
+Norway,NO,2019,1,EV charging,0.0
+Norway,NO,2019,1,Tesla,34.25
+Norway,NO,2019,1,electric car,0.75
+Norway,NO,2019,1,electric vehicle,0.0
+Norway,NO,2019,2,BYD,0.0
+Norway,NO,2019,2,EV charging,0.0
+Norway,NO,2019,2,Tesla,38.25
+Norway,NO,2019,2,electric car,1.0
+Norway,NO,2019,2,electric vehicle,0.0
+Norway,NO,2019,3,BYD,0.0
+Norway,NO,2019,3,EV charging,0.0
+Norway,NO,2019,3,Tesla,53.4
+Norway,NO,2019,3,electric car,1.0
+Norway,NO,2019,3,electric vehicle,0.0
+Norway,NO,2019,4,BYD,0.0
+Norway,NO,2019,4,EV charging,0.0
+Norway,NO,2019,4,Tesla,43.75
+Norway,NO,2019,4,electric car,1.0
+Norway,NO,2019,4,electric vehicle,0.0
+Norway,NO,2019,5,BYD,0.0
+Norway,NO,2019,5,EV charging,0.0
+Norway,NO,2019,5,Tesla,38.0
+Norway,NO,2019,5,electric car,1.0
+Norway,NO,2019,5,electric vehicle,0.0
+Norway,NO,2019,6,BYD,0.0
+Norway,NO,2019,6,EV charging,20.0
+Norway,NO,2019,6,Tesla,42.0
+Norway,NO,2019,6,electric car,1.0
+Norway,NO,2019,6,electric vehicle,0.0
+Norway,NO,2019,7,BYD,0.25
+Norway,NO,2019,7,EV charging,0.0
+Norway,NO,2019,7,Tesla,42.75
+Norway,NO,2019,7,electric car,1.0
+Norway,NO,2019,7,electric vehicle,0.0
+Norway,NO,2019,8,BYD,0.0
+Norway,NO,2019,8,EV charging,0.0
+Norway,NO,2019,8,Tesla,36.0
+Norway,NO,2019,8,electric car,1.0
+Norway,NO,2019,8,electric vehicle,0.0
+Norway,NO,2019,9,BYD,0.0
+Norway,NO,2019,9,EV charging,0.0
+Norway,NO,2019,9,Tesla,34.6
+Norway,NO,2019,9,electric car,1.0
+Norway,NO,2019,9,electric vehicle,0.0
+Norway,NO,2019,10,BYD,0.0
+Norway,NO,2019,10,EV charging,0.0
+Norway,NO,2019,10,Tesla,32.5
+Norway,NO,2019,10,electric car,1.0
+Norway,NO,2019,10,electric vehicle,0.0
+Norway,NO,2019,11,BYD,0.0
+Norway,NO,2019,11,EV charging,0.0
+Norway,NO,2019,11,Tesla,59.25
+Norway,NO,2019,11,electric car,1.0
+Norway,NO,2019,11,electric vehicle,0.0
+Norway,NO,2019,12,BYD,0.17
+Norway,NO,2019,12,EV charging,0.0
+Norway,NO,2019,12,Tesla,44.17
+Norway,NO,2019,12,electric car,1.33
+Norway,NO,2019,12,electric vehicle,0.0
+Norway,NO,2020,1,BYD,0.0
+Norway,NO,2020,1,Tesla,75.75
+Norway,NO,2020,1,electric car,1.75
+Norway,NO,2020,2,BYD,0.0
+Norway,NO,2020,2,Tesla,78.75
+Norway,NO,2020,2,electric car,2.0
+Norway,NO,2020,3,BYD,0.2
+Norway,NO,2020,3,Tesla,50.6
+Norway,NO,2020,3,electric car,1.0
+Norway,NO,2020,4,BYD,0.0
+Norway,NO,2020,4,Tesla,49.25
+Norway,NO,2020,4,electric car,0.75
+Norway,NO,2020,5,BYD,1.6
+Norway,NO,2020,5,Tesla,53.8
+Norway,NO,2020,5,electric car,1.6
+Norway,NO,2020,6,BYD,1.75
+Norway,NO,2020,6,Tesla,63.75
+Norway,NO,2020,6,electric car,1.25
+Norway,NO,2020,7,BYD,2.75
+Norway,NO,2020,7,Tesla,87.5
+Norway,NO,2020,7,electric car,2.25
+Norway,NO,2020,8,BYD,2.8
+Norway,NO,2020,8,Tesla,68.8
+Norway,NO,2020,8,electric car,1.8
+Norway,NO,2020,9,BYD,1.75
+Norway,NO,2020,9,Tesla,80.75
+Norway,NO,2020,9,electric car,2.0
+Norway,NO,2020,10,BYD,1.75
+Norway,NO,2020,10,Tesla,75.0
+Norway,NO,2020,10,electric car,2.0
+Norway,NO,2020,11,BYD,1.4
+Norway,NO,2020,11,Tesla,62.4
+Norway,NO,2020,11,electric car,1.2
+Norway,NO,2020,12,BYD,1.8
+Norway,NO,2020,12,EV charging,0.0
+Norway,NO,2020,12,Tesla,74.4
+Norway,NO,2020,12,electric car,2.0
+Norway,NO,2020,12,electric vehicle,0.0
+Norway,NO,2021,1,BYD,2.0
+Norway,NO,2021,1,EV charging,0.0
+Norway,NO,2021,1,Tesla,80.8
+Norway,NO,2021,1,electric car,2.0
+Norway,NO,2021,1,electric vehicle,0.0
+Norway,NO,2021,2,BYD,2.75
+Norway,NO,2021,2,EV charging,0.0
+Norway,NO,2021,2,Tesla,73.5
+Norway,NO,2021,2,electric car,2.0
+Norway,NO,2021,2,electric vehicle,0.0
+Norway,NO,2021,3,BYD,1.5
+Norway,NO,2021,3,EV charging,0.0
+Norway,NO,2021,3,Tesla,67.5
+Norway,NO,2021,3,electric car,1.75
+Norway,NO,2021,3,electric vehicle,0.0
+Norway,NO,2021,4,BYD,1.75
+Norway,NO,2021,4,EV charging,0.0
+Norway,NO,2021,4,Tesla,67.75
+Norway,NO,2021,4,electric car,2.0
+Norway,NO,2021,4,electric vehicle,0.0
+Norway,NO,2021,5,BYD,1.4
+Norway,NO,2021,5,EV charging,0.0
+Norway,NO,2021,5,Tesla,64.4
+Norway,NO,2021,5,electric car,2.0
+Norway,NO,2021,5,electric vehicle,0.0
+Norway,NO,2021,6,BYD,2.75
+Norway,NO,2021,6,EV charging,0.0
+Norway,NO,2021,6,Tesla,70.5
+Norway,NO,2021,6,electric car,2.0
+Norway,NO,2021,6,electric vehicle,0.0
+Norway,NO,2021,7,BYD,2.5
+Norway,NO,2021,7,EV charging,23.75
+Norway,NO,2021,7,Tesla,88.5
+Norway,NO,2021,7,electric car,2.75
+Norway,NO,2021,7,electric vehicle,0.0
+Norway,NO,2021,8,BYD,5.6
+Norway,NO,2021,8,EV charging,0.0
+Norway,NO,2021,8,Tesla,89.6
+Norway,NO,2021,8,electric car,2.2
+Norway,NO,2021,8,electric vehicle,0.0
+Norway,NO,2021,9,BYD,7.25
+Norway,NO,2021,9,EV charging,0.0
+Norway,NO,2021,9,Tesla,85.0
+Norway,NO,2021,9,electric car,2.0
+Norway,NO,2021,9,electric vehicle,0.0
+Norway,NO,2021,10,BYD,6.0
+Norway,NO,2021,10,EV charging,20.0
+Norway,NO,2021,10,Tesla,83.0
+Norway,NO,2021,10,electric car,2.0
+Norway,NO,2021,10,electric vehicle,0.0
+Norway,NO,2021,11,BYD,5.25
+Norway,NO,2021,11,EV charging,0.0
+Norway,NO,2021,11,Tesla,74.0
+Norway,NO,2021,11,electric car,1.75
+Norway,NO,2021,11,electric vehicle,0.0
+Norway,NO,2021,12,BYD,3.6
+Norway,NO,2021,12,EV charging,0.0
+Norway,NO,2021,12,Tesla,76.0
+Norway,NO,2021,12,electric car,1.6
+Norway,NO,2021,12,electric vehicle,0.0
+Norway,NO,2022,1,BYD,5.0
+Norway,NO,2022,1,EV charging,0.0
+Norway,NO,2022,1,Tesla,78.0
+Norway,NO,2022,1,electric car,1.8
+Norway,NO,2022,1,electric vehicle,0.0
+Norway,NO,2022,2,BYD,5.25
+Norway,NO,2022,2,EV charging,0.0
+Norway,NO,2022,2,Tesla,67.75
+Norway,NO,2022,2,electric car,1.75
+Norway,NO,2022,2,electric vehicle,0.0
+Norway,NO,2022,3,BYD,5.5
+Norway,NO,2022,3,EV charging,0.0
+Norway,NO,2022,3,Tesla,82.5
+Norway,NO,2022,3,electric car,2.25
+Norway,NO,2022,3,electric vehicle,0.0
+Norway,NO,2022,4,BYD,5.25
+Norway,NO,2022,4,EV charging,36.75
+Norway,NO,2022,4,Tesla,79.25
+Norway,NO,2022,4,electric car,2.5
+Norway,NO,2022,4,electric vehicle,0.0
+Norway,NO,2022,5,BYD,4.8
+Norway,NO,2022,5,EV charging,0.0
+Norway,NO,2022,5,Tesla,75.8
+Norway,NO,2022,5,electric car,2.0
+Norway,NO,2022,5,electric vehicle,18.6
+Norway,NO,2022,6,BYD,5.25
+Norway,NO,2022,6,EV charging,0.0
+Norway,NO,2022,6,Tesla,84.25
+Norway,NO,2022,6,electric car,2.25
+Norway,NO,2022,6,electric vehicle,0.0
+Norway,NO,2022,7,BYD,6.2
+Norway,NO,2022,7,EV charging,20.0
+Norway,NO,2022,7,Tesla,89.6
+Norway,NO,2022,7,electric car,2.6
+Norway,NO,2022,7,electric vehicle,0.0
+Norway,NO,2022,8,BYD,6.0
+Norway,NO,2022,8,EV charging,24.75
+Norway,NO,2022,8,Tesla,71.5
+Norway,NO,2022,8,electric car,2.25
+Norway,NO,2022,8,electric vehicle,0.0
+Norway,NO,2022,9,BYD,5.5
+Norway,NO,2022,9,EV charging,0.0
+Norway,NO,2022,9,Tesla,63.75
+Norway,NO,2022,9,electric car,1.75
+Norway,NO,2022,9,electric vehicle,0.0
+Norway,NO,2022,10,BYD,7.8
+Norway,NO,2022,10,EV charging,0.0
+Norway,NO,2022,10,Tesla,65.4
+Norway,NO,2022,10,electric car,1.8
+Norway,NO,2022,10,electric vehicle,0.0
+Norway,NO,2022,11,BYD,6.75
+Norway,NO,2022,11,EV charging,17.0
+Norway,NO,2022,11,Tesla,64.5
+Norway,NO,2022,11,electric car,1.5
+Norway,NO,2022,11,electric vehicle,0.0
+Norway,NO,2022,12,BYD,5.75
+Norway,NO,2022,12,EV charging,0.0
+Norway,NO,2022,12,Tesla,85.0
+Norway,NO,2022,12,electric car,1.75
+Norway,NO,2022,12,electric vehicle,0.0
+Norway,NO,2023,1,BYD,3.8
+Norway,NO,2023,1,EV charging,0.0
+Norway,NO,2023,1,Tesla,77.6
+Norway,NO,2023,1,electric car,1.0
+Norway,NO,2023,1,electric vehicle,0.0
+Norway,NO,2023,2,BYD,3.5
+Norway,NO,2023,2,EV charging,0.0
+Norway,NO,2023,2,Tesla,60.25
+Norway,NO,2023,2,electric car,1.0
+Norway,NO,2023,2,electric vehicle,0.0
+Norway,NO,2023,3,BYD,2.75
+Norway,NO,2023,3,EV charging,0.0
+Norway,NO,2023,3,Tesla,60.5
+Norway,NO,2023,3,electric car,1.0
+Norway,NO,2023,3,electric vehicle,0.0
+Norway,NO,2023,4,BYD,3.0
+Norway,NO,2023,4,EV charging,0.0
+Norway,NO,2023,4,Tesla,56.0
+Norway,NO,2023,4,electric car,1.0
+Norway,NO,2023,4,electric vehicle,0.0
+Norway,NO,2023,5,BYD,3.0
+Norway,NO,2023,5,EV charging,0.0
+Norway,NO,2023,5,Tesla,50.75
+Norway,NO,2023,5,electric car,1.0
+Norway,NO,2023,5,electric vehicle,25.0
+Norway,NO,2023,6,BYD,2.75
+Norway,NO,2023,6,EV charging,0.0
+Norway,NO,2023,6,Tesla,54.5
+Norway,NO,2023,6,electric car,1.25
+Norway,NO,2023,6,electric vehicle,0.0
+Norway,NO,2023,7,BYD,3.2
+Norway,NO,2023,7,EV charging,17.8
+Norway,NO,2023,7,Tesla,63.2
+Norway,NO,2023,7,electric car,1.4
+Norway,NO,2023,7,electric vehicle,0.0
+Norway,NO,2023,8,BYD,3.25
+Norway,NO,2023,8,EV charging,17.5
+Norway,NO,2023,8,Tesla,49.25
+Norway,NO,2023,8,electric car,1.0
+Norway,NO,2023,8,electric vehicle,21.0
+Norway,NO,2023,9,BYD,3.5
+Norway,NO,2023,9,EV charging,0.0
+Norway,NO,2023,9,Tesla,48.0
+Norway,NO,2023,9,electric car,1.25
+Norway,NO,2023,9,electric vehicle,0.0
+Norway,NO,2023,10,BYD,4.0
+Norway,NO,2023,10,EV charging,0.0
+Norway,NO,2023,10,Tesla,49.4
+Norway,NO,2023,10,electric car,1.0
+Norway,NO,2023,10,electric vehicle,0.0
+Norway,NO,2023,11,BYD,4.0
+Norway,NO,2023,11,EV charging,0.0
+Norway,NO,2023,11,Tesla,43.75
+Norway,NO,2023,11,electric car,1.0
+Norway,NO,2023,11,electric vehicle,0.0
+Norway,NO,2023,12,BYD,5.33
+Norway,NO,2023,12,EV charging,0.0
+Norway,NO,2023,12,Tesla,54.0
+Norway,NO,2023,12,electric car,1.5
+Norway,NO,2023,12,electric vehicle,0.0
+Norway,NO,2024,1,BYD,8.0
+Norway,NO,2024,1,EV charging,0.0
+Norway,NO,2024,1,Tesla,82.5
+Norway,NO,2024,1,electric car,1.75
+Norway,NO,2024,1,electric vehicle,0.0
+Norway,NO,2024,2,BYD,8.0
+Norway,NO,2024,2,EV charging,0.0
+Norway,NO,2024,2,Tesla,80.0
+Norway,NO,2024,2,electric car,2.0
+Norway,NO,2024,2,electric vehicle,0.0
+Norway,NO,2024,3,BYD,7.0
+Norway,NO,2024,3,EV charging,0.0
+Norway,NO,2024,3,Tesla,74.8
+Norway,NO,2024,3,electric car,1.8
+Norway,NO,2024,3,electric vehicle,18.8
+Norway,NO,2024,4,BYD,10.5
+Norway,NO,2024,4,EV charging,0.0
+Norway,NO,2024,4,Tesla,78.5
+Norway,NO,2024,4,electric car,2.0
+Norway,NO,2024,4,electric vehicle,0.0
+Norway,NO,2024,5,BYD,9.25
+Norway,NO,2024,5,EV charging,0.0
+Norway,NO,2024,5,Tesla,78.75
+Norway,NO,2024,5,electric car,1.75
+Norway,NO,2024,5,electric vehicle,0.0
+Norway,NO,2024,6,BYD,8.8
+Norway,NO,2024,6,EV charging,0.0
+Norway,NO,2024,6,Tesla,87.4
+Norway,NO,2024,6,electric car,2.2
+Norway,NO,2024,6,electric vehicle,0.0
+Norway,NO,2024,7,BYD,8.0
+Norway,NO,2024,7,EV charging,0.0
+Norway,NO,2024,7,Tesla,94.0
+Norway,NO,2024,7,electric car,2.0
+Norway,NO,2024,7,electric vehicle,0.0
+Norway,NO,2024,8,BYD,6.75
+Norway,NO,2024,8,EV charging,0.0
+Norway,NO,2024,8,Tesla,76.25
+Norway,NO,2024,8,electric car,2.0
+Norway,NO,2024,8,electric vehicle,0.0
+Norway,NO,2024,9,BYD,7.0
+Norway,NO,2024,9,EV charging,0.0
+Norway,NO,2024,9,Tesla,78.8
+Norway,NO,2024,9,electric car,2.0
+Norway,NO,2024,9,electric vehicle,0.0
+Norway,NO,2024,10,BYD,7.75
+Norway,NO,2024,10,EV charging,0.0
+Norway,NO,2024,10,Tesla,89.0
+Norway,NO,2024,10,electric car,1.75
+Norway,NO,2024,10,electric vehicle,0.0
+Norway,NO,2024,11,BYD,10.75
+Norway,NO,2024,11,EV charging,0.0
+Norway,NO,2024,11,Tesla,84.75
+Norway,NO,2024,11,electric car,1.5
+Norway,NO,2024,11,electric vehicle,0.0
+Norway,NO,2024,12,BYD,10.6
+Norway,NO,2024,12,EV charging,20.0
+Norway,NO,2024,12,Tesla,86.4
+Norway,NO,2024,12,electric car,1.2
+Norway,NO,2024,12,electric vehicle,0.0
+USA,US,2018,12,BYD,0.0
+USA,US,2018,12,EV charging,35.0
+USA,US,2018,12,Tesla,23.0
+USA,US,2018,12,electric car,2.0
+USA,US,2018,12,electric vehicle,62.0
+USA,US,2019,1,BYD,0.0
+USA,US,2019,1,EV charging,32.25
+USA,US,2019,1,Tesla,20.25
+USA,US,2019,1,electric car,2.0
+USA,US,2019,1,electric vehicle,63.75
+USA,US,2019,2,BYD,0.0
+USA,US,2019,2,EV charging,34.75
+USA,US,2019,2,Tesla,22.25
+USA,US,2019,2,electric car,2.0
+USA,US,2019,2,electric vehicle,70.75
+USA,US,2019,3,BYD,0.0
+USA,US,2019,3,EV charging,38.8
+USA,US,2019,3,Tesla,27.8
+USA,US,2019,3,electric car,2.0
+USA,US,2019,3,electric vehicle,72.8
+USA,US,2019,4,BYD,0.0
+USA,US,2019,4,EV charging,43.25
+USA,US,2019,4,Tesla,26.0
+USA,US,2019,4,electric car,2.0
+USA,US,2019,4,electric vehicle,79.0
+USA,US,2019,5,BYD,0.0
+USA,US,2019,5,EV charging,41.25
+USA,US,2019,5,Tesla,26.75
+USA,US,2019,5,electric car,2.0
+USA,US,2019,5,electric vehicle,73.75
+USA,US,2019,6,BYD,0.0
+USA,US,2019,6,EV charging,43.2
+USA,US,2019,6,Tesla,26.8
+USA,US,2019,6,electric car,2.0
+USA,US,2019,6,electric vehicle,74.0
+USA,US,2019,7,BYD,0.0
+USA,US,2019,7,EV charging,45.5
+USA,US,2019,7,Tesla,25.25
+USA,US,2019,7,electric car,2.0
+USA,US,2019,7,electric vehicle,66.25
+USA,US,2019,8,BYD,0.0
+USA,US,2019,8,EV charging,41.75
+USA,US,2019,8,Tesla,23.25
+USA,US,2019,8,electric car,2.0
+USA,US,2019,8,electric vehicle,68.75
+USA,US,2019,9,BYD,0.0
+USA,US,2019,9,EV charging,41.2
+USA,US,2019,9,Tesla,23.6
+USA,US,2019,9,electric car,2.0
+USA,US,2019,9,electric vehicle,77.0
+USA,US,2019,10,BYD,0.0
+USA,US,2019,10,EV charging,43.0
+USA,US,2019,10,Tesla,26.0
+USA,US,2019,10,electric car,2.0
+USA,US,2019,10,electric vehicle,74.0
+USA,US,2019,11,BYD,0.0
+USA,US,2019,11,EV charging,43.5
+USA,US,2019,11,Tesla,59.75
+USA,US,2019,11,electric car,2.5
+USA,US,2019,11,electric vehicle,79.0
+USA,US,2019,12,BYD,0.0
+USA,US,2019,12,EV charging,42.83
+USA,US,2019,12,Tesla,33.5
+USA,US,2019,12,electric car,2.17
+USA,US,2019,12,electric vehicle,71.83
+USA,US,2020,1,BYD,0.0
+USA,US,2020,1,EV charging,43.0
+USA,US,2020,1,Tesla,49.0
+USA,US,2020,1,electric car,3.25
+USA,US,2020,1,electric vehicle,74.5
+USA,US,2020,2,BYD,0.0
+USA,US,2020,2,EV charging,42.0
+USA,US,2020,2,Tesla,63.5
+USA,US,2020,2,electric car,3.25
+USA,US,2020,2,electric vehicle,83.75
+USA,US,2020,3,BYD,0.0
+USA,US,2020,3,EV charging,22.4
+USA,US,2020,3,Tesla,43.8
+USA,US,2020,3,electric car,2.2
+USA,US,2020,3,electric vehicle,53.6
+USA,US,2020,4,BYD,0.0
+USA,US,2020,4,EV charging,18.25
+USA,US,2020,4,Tesla,34.5
+USA,US,2020,4,electric car,2.0
+USA,US,2020,4,electric vehicle,48.75
+USA,US,2020,5,BYD,0.0
+USA,US,2020,5,EV charging,22.0
+USA,US,2020,5,Tesla,41.0
+USA,US,2020,5,electric car,2.2
+USA,US,2020,5,electric vehicle,53.2
+USA,US,2020,6,BYD,0.0
+USA,US,2020,6,EV charging,34.5
+USA,US,2020,6,Tesla,50.75
+USA,US,2020,6,electric car,3.0
+USA,US,2020,6,electric vehicle,68.5
+USA,US,2020,7,BYD,0.75
+USA,US,2020,7,EV charging,40.0
+USA,US,2020,7,Tesla,65.25
+USA,US,2020,7,electric car,3.0
+USA,US,2020,7,electric vehicle,81.75
+USA,US,2020,8,BYD,0.0
+USA,US,2020,8,EV charging,35.6
+USA,US,2020,8,Tesla,70.6
+USA,US,2020,8,electric car,3.0
+USA,US,2020,8,electric vehicle,74.6
+USA,US,2020,9,BYD,0.0
+USA,US,2020,9,EV charging,40.0
+USA,US,2020,9,Tesla,71.5
+USA,US,2020,9,electric car,3.5
+USA,US,2020,9,electric vehicle,83.25
+USA,US,2020,10,BYD,0.0
+USA,US,2020,10,EV charging,43.5
+USA,US,2020,10,Tesla,55.25
+USA,US,2020,10,electric car,3.5
+USA,US,2020,10,electric vehicle,78.75
+USA,US,2020,11,BYD,0.8
+USA,US,2020,11,EV charging,45.2
+USA,US,2020,11,Tesla,52.4
+USA,US,2020,11,electric car,3.6
+USA,US,2020,11,electric vehicle,87.6
+USA,US,2020,12,BYD,0.0
+USA,US,2020,12,EV charging,41.2
+USA,US,2020,12,Tesla,64.6
+USA,US,2020,12,electric car,4.0
+USA,US,2020,12,electric vehicle,72.0
+USA,US,2021,1,BYD,1.0
+USA,US,2021,1,EV charging,30.4
+USA,US,2021,1,Tesla,86.4
+USA,US,2021,1,electric car,5.4
+USA,US,2021,1,electric vehicle,62.0
+USA,US,2021,2,BYD,1.0
+USA,US,2021,2,EV charging,37.25
+USA,US,2021,2,Tesla,79.0
+USA,US,2021,2,electric car,6.0
+USA,US,2021,2,electric vehicle,66.0
+USA,US,2021,3,BYD,0.25
+USA,US,2021,3,EV charging,36.75
+USA,US,2021,3,Tesla,75.5
+USA,US,2021,3,electric car,5.75
+USA,US,2021,3,electric vehicle,59.0
+USA,US,2021,4,BYD,0.25
+USA,US,2021,4,EV charging,41.0
+USA,US,2021,4,Tesla,73.5
+USA,US,2021,4,electric car,6.5
+USA,US,2021,4,electric vehicle,66.5
+USA,US,2021,5,BYD,0.0
+USA,US,2021,5,EV charging,47.4
+USA,US,2021,5,Tesla,72.8
+USA,US,2021,5,electric car,7.6
+USA,US,2021,5,electric vehicle,73.0
+USA,US,2021,6,BYD,0.0
+USA,US,2021,6,EV charging,49.0
+USA,US,2021,6,Tesla,67.5
+USA,US,2021,6,electric car,7.5
+USA,US,2021,6,electric vehicle,63.0
+USA,US,2021,7,BYD,0.0
+USA,US,2021,7,EV charging,45.75
+USA,US,2021,7,Tesla,63.25
+USA,US,2021,7,electric car,6.75
+USA,US,2021,7,electric vehicle,59.25
+USA,US,2021,8,BYD,0.4
+USA,US,2021,8,EV charging,44.4
+USA,US,2021,8,Tesla,63.0
+USA,US,2021,8,electric car,5.8
+USA,US,2021,8,electric vehicle,60.4
+USA,US,2021,9,BYD,0.25
+USA,US,2021,9,EV charging,39.25
+USA,US,2021,9,Tesla,60.25
+USA,US,2021,9,electric car,6.25
+USA,US,2021,9,electric vehicle,64.5
+USA,US,2021,10,BYD,0.2
+USA,US,2021,10,EV charging,47.2
+USA,US,2021,10,Tesla,76.8
+USA,US,2021,10,electric car,7.0
+USA,US,2021,10,electric vehicle,70.4
+USA,US,2021,11,BYD,0.25
+USA,US,2021,11,EV charging,60.25
+USA,US,2021,11,Tesla,77.25
+USA,US,2021,11,electric car,8.75
+USA,US,2021,11,electric vehicle,86.25
+USA,US,2021,12,BYD,0.0
+USA,US,2021,12,EV charging,40.4
+USA,US,2021,12,Tesla,73.0
+USA,US,2021,12,electric car,7.0
+USA,US,2021,12,electric vehicle,63.2
+USA,US,2022,1,BYD,0.8
+USA,US,2022,1,EV charging,28.0
+USA,US,2022,1,Tesla,70.6
+USA,US,2022,1,electric car,6.6
+USA,US,2022,1,electric vehicle,42.8
+USA,US,2022,2,BYD,0.0
+USA,US,2022,2,EV charging,38.75
+USA,US,2022,2,Tesla,69.75
+USA,US,2022,2,electric car,9.25
+USA,US,2022,2,electric vehicle,57.25
+USA,US,2022,3,BYD,0.0
+USA,US,2022,3,EV charging,52.5
+USA,US,2022,3,Tesla,91.75
+USA,US,2022,3,electric car,14.75
+USA,US,2022,3,electric vehicle,82.25
+USA,US,2022,4,BYD,0.0
+USA,US,2022,4,EV charging,42.5
+USA,US,2022,4,Tesla,84.5
+USA,US,2022,4,electric car,10.5
+USA,US,2022,4,electric vehicle,62.25
+USA,US,2022,5,BYD,0.2
+USA,US,2022,5,EV charging,39.6
+USA,US,2022,5,Tesla,79.0
+USA,US,2022,5,electric car,9.8
+USA,US,2022,5,electric vehicle,56.0
+USA,US,2022,6,BYD,0.75
+USA,US,2022,6,EV charging,52.25
+USA,US,2022,6,Tesla,80.75
+USA,US,2022,6,electric car,11.75
+USA,US,2022,6,electric vehicle,65.25
+USA,US,2022,7,BYD,1.4
+USA,US,2022,7,EV charging,48.4
+USA,US,2022,7,Tesla,69.4
+USA,US,2022,7,electric car,9.8
+USA,US,2022,7,electric vehicle,57.6
+USA,US,2022,8,BYD,0.75
+USA,US,2022,8,EV charging,48.0
+USA,US,2022,8,Tesla,71.25
+USA,US,2022,8,electric car,10.25
+USA,US,2022,8,electric vehicle,69.75
+USA,US,2022,9,BYD,0.25
+USA,US,2022,9,EV charging,44.5
+USA,US,2022,9,Tesla,62.75
+USA,US,2022,9,electric car,8.75
+USA,US,2022,9,electric vehicle,53.75
+USA,US,2022,10,BYD,0.4
+USA,US,2022,10,EV charging,39.6
+USA,US,2022,10,Tesla,61.2
+USA,US,2022,10,electric car,7.6
+USA,US,2022,10,electric vehicle,50.4
+USA,US,2022,11,BYD,0.0
+USA,US,2022,11,EV charging,37.25
+USA,US,2022,11,Tesla,60.25
+USA,US,2022,11,electric car,6.75
+USA,US,2022,11,electric vehicle,45.25
+USA,US,2022,12,BYD,0.25
+USA,US,2022,12,EV charging,40.75
+USA,US,2022,12,Tesla,74.25
+USA,US,2022,12,electric car,7.0
+USA,US,2022,12,electric vehicle,46.25
+USA,US,2023,1,BYD,1.0
+USA,US,2023,1,EV charging,65.4
+USA,US,2023,1,Tesla,95.8
+USA,US,2023,1,electric car,7.8
+USA,US,2023,1,electric vehicle,78.0
+USA,US,2023,2,BYD,1.25
+USA,US,2023,2,EV charging,71.0
+USA,US,2023,2,Tesla,89.5
+USA,US,2023,2,electric car,7.75
+USA,US,2023,2,electric vehicle,79.25
+USA,US,2023,3,BYD,0.75
+USA,US,2023,3,EV charging,70.0
+USA,US,2023,3,Tesla,78.5
+USA,US,2023,3,electric car,7.25
+USA,US,2023,3,electric vehicle,76.25
+USA,US,2023,4,BYD,1.0
+USA,US,2023,4,EV charging,75.4
+USA,US,2023,4,Tesla,81.0
+USA,US,2023,4,electric car,8.0
+USA,US,2023,4,electric vehicle,80.6
+USA,US,2023,5,BYD,1.0
+USA,US,2023,5,EV charging,75.25
+USA,US,2023,5,Tesla,77.25
+USA,US,2023,5,electric car,7.5
+USA,US,2023,5,electric vehicle,66.25
+USA,US,2023,6,BYD,1.0
+USA,US,2023,6,EV charging,87.0
+USA,US,2023,6,Tesla,88.5
+USA,US,2023,6,electric car,7.25
+USA,US,2023,6,electric vehicle,69.25
+USA,US,2023,7,BYD,1.0
+USA,US,2023,7,EV charging,92.4
+USA,US,2023,7,Tesla,88.4
+USA,US,2023,7,electric car,7.6
+USA,US,2023,7,electric vehicle,70.4
+USA,US,2023,8,BYD,0.75
+USA,US,2023,8,EV charging,90.0
+USA,US,2023,8,Tesla,80.75
+USA,US,2023,8,electric car,7.0
+USA,US,2023,8,electric vehicle,73.5
+USA,US,2023,9,BYD,1.0
+USA,US,2023,9,EV charging,87.25
+USA,US,2023,9,Tesla,79.25
+USA,US,2023,9,electric car,7.25
+USA,US,2023,9,electric vehicle,79.0
+USA,US,2023,10,BYD,1.0
+USA,US,2023,10,EV charging,85.4
+USA,US,2023,10,Tesla,76.8
+USA,US,2023,10,electric car,7.0
+USA,US,2023,10,electric vehicle,76.0
+USA,US,2023,11,BYD,1.0
+USA,US,2023,11,EV charging,81.0
+USA,US,2023,11,Tesla,73.75
+USA,US,2023,11,electric car,7.0
+USA,US,2023,11,electric vehicle,71.5
+USA,US,2023,12,BYD,2.17
+USA,US,2023,12,EV charging,77.0
+USA,US,2023,12,Tesla,77.17
+USA,US,2023,12,electric car,6.83
+USA,US,2023,12,electric vehicle,68.67
+USA,US,2024,1,BYD,1.75
+USA,US,2024,1,EV charging,56.0
+USA,US,2024,1,Tesla,66.5
+USA,US,2024,1,electric car,5.25
+USA,US,2024,1,electric vehicle,49.0
+USA,US,2024,2,BYD,1.5
+USA,US,2024,2,EV charging,51.75
+USA,US,2024,2,Tesla,64.25
+USA,US,2024,2,electric car,5.25
+USA,US,2024,2,electric vehicle,55.0
+USA,US,2024,3,BYD,1.4
+USA,US,2024,3,EV charging,58.2
+USA,US,2024,3,Tesla,73.4
+USA,US,2024,3,electric car,5.4
+USA,US,2024,3,electric vehicle,56.0
+USA,US,2024,4,BYD,1.25
+USA,US,2024,4,EV charging,58.75
+USA,US,2024,4,Tesla,85.0
+USA,US,2024,4,electric car,6.0
+USA,US,2024,4,electric vehicle,54.25
+USA,US,2024,5,BYD,1.5
+USA,US,2024,5,EV charging,61.75
+USA,US,2024,5,Tesla,82.0
+USA,US,2024,5,electric car,6.0
+USA,US,2024,5,electric vehicle,48.5
+USA,US,2024,6,BYD,1.0
+USA,US,2024,6,EV charging,72.2
+USA,US,2024,6,Tesla,77.6
+USA,US,2024,6,electric car,5.6
+USA,US,2024,6,electric vehicle,45.8
+USA,US,2024,7,BYD,1.0
+USA,US,2024,7,EV charging,75.75
+USA,US,2024,7,Tesla,76.5
+USA,US,2024,7,electric car,5.25
+USA,US,2024,7,electric vehicle,48.75
+USA,US,2024,8,BYD,1.0
+USA,US,2024,8,EV charging,71.5
+USA,US,2024,8,Tesla,69.25
+USA,US,2024,8,electric car,5.25
+USA,US,2024,8,electric vehicle,44.5
+USA,US,2024,9,BYD,1.0
+USA,US,2024,9,EV charging,64.4
+USA,US,2024,9,Tesla,62.6
+USA,US,2024,9,electric car,5.2
+USA,US,2024,9,electric vehicle,44.8
+USA,US,2024,10,BYD,1.0
+USA,US,2024,10,EV charging,61.0
+USA,US,2024,10,Tesla,80.25
+USA,US,2024,10,electric car,5.0
+USA,US,2024,10,electric vehicle,45.75
+USA,US,2024,11,BYD,1.0
+USA,US,2024,11,EV charging,63.5
+USA,US,2024,11,Tesla,81.0
+USA,US,2024,11,electric car,5.25
+USA,US,2024,11,electric vehicle,46.75
+USA,US,2024,12,BYD,1.0
+USA,US,2024,12,EV charging,66.2
+USA,US,2024,12,Tesla,86.4
+USA,US,2024,12,electric car,5.4
+USA,US,2024,12,electric vehicle,43.8
+United Kingdom,GB,2018,12,BYD,0.0
+United Kingdom,GB,2018,12,EV charging,35.0
+United Kingdom,GB,2018,12,Tesla,25.0
+United Kingdom,GB,2018,12,electric car,9.0
+United Kingdom,GB,2018,12,electric vehicle,42.0
+United Kingdom,GB,2019,1,BYD,0.5
+United Kingdom,GB,2019,1,EV charging,42.5
+United Kingdom,GB,2019,1,Tesla,24.25
+United Kingdom,GB,2019,1,electric car,11.0
+United Kingdom,GB,2019,1,electric vehicle,68.75
+United Kingdom,GB,2019,2,BYD,0.25
+United Kingdom,GB,2019,2,EV charging,43.5
+United Kingdom,GB,2019,2,Tesla,29.25
+United Kingdom,GB,2019,2,electric car,12.0
+United Kingdom,GB,2019,2,electric vehicle,68.25
+United Kingdom,GB,2019,3,BYD,0.6
+United Kingdom,GB,2019,3,EV charging,49.2
+United Kingdom,GB,2019,3,Tesla,33.6
+United Kingdom,GB,2019,3,electric car,11.4
+United Kingdom,GB,2019,3,electric vehicle,73.0
+United Kingdom,GB,2019,4,BYD,0.0
+United Kingdom,GB,2019,4,EV charging,46.25
+United Kingdom,GB,2019,4,Tesla,33.75
+United Kingdom,GB,2019,4,electric car,12.75
+United Kingdom,GB,2019,4,electric vehicle,71.75
+United Kingdom,GB,2019,5,BYD,0.25
+United Kingdom,GB,2019,5,EV charging,48.75
+United Kingdom,GB,2019,5,Tesla,33.75
+United Kingdom,GB,2019,5,electric car,12.5
+United Kingdom,GB,2019,5,electric vehicle,64.75
+United Kingdom,GB,2019,6,BYD,0.0
+United Kingdom,GB,2019,6,EV charging,58.2
+United Kingdom,GB,2019,6,Tesla,38.4
+United Kingdom,GB,2019,6,electric car,14.4
+United Kingdom,GB,2019,6,electric vehicle,84.0
+United Kingdom,GB,2019,7,BYD,0.0
+United Kingdom,GB,2019,7,EV charging,61.0
+United Kingdom,GB,2019,7,Tesla,36.75
+United Kingdom,GB,2019,7,electric car,16.25
+United Kingdom,GB,2019,7,electric vehicle,81.0
+United Kingdom,GB,2019,8,BYD,0.25
+United Kingdom,GB,2019,8,EV charging,59.25
+United Kingdom,GB,2019,8,Tesla,34.5
+United Kingdom,GB,2019,8,electric car,13.75
+United Kingdom,GB,2019,8,electric vehicle,74.75
+United Kingdom,GB,2019,9,BYD,0.4
+United Kingdom,GB,2019,9,EV charging,65.2
+United Kingdom,GB,2019,9,Tesla,38.4
+United Kingdom,GB,2019,9,electric car,13.8
+United Kingdom,GB,2019,9,electric vehicle,78.4
+United Kingdom,GB,2019,10,BYD,0.0
+United Kingdom,GB,2019,10,EV charging,70.25
+United Kingdom,GB,2019,10,Tesla,37.25
+United Kingdom,GB,2019,10,electric car,16.25
+United Kingdom,GB,2019,10,electric vehicle,85.0
+United Kingdom,GB,2019,11,BYD,0.0
+United Kingdom,GB,2019,11,EV charging,70.5
+United Kingdom,GB,2019,11,Tesla,68.25
+United Kingdom,GB,2019,11,electric car,14.5
+United Kingdom,GB,2019,11,electric vehicle,86.5
+United Kingdom,GB,2019,12,BYD,0.0
+United Kingdom,GB,2019,12,EV charging,59.0
+United Kingdom,GB,2019,12,Tesla,45.17
+United Kingdom,GB,2019,12,electric car,15.5
+United Kingdom,GB,2019,12,electric vehicle,71.17
+United Kingdom,GB,2020,1,BYD,0.0
+United Kingdom,GB,2020,1,EV charging,68.0
+United Kingdom,GB,2020,1,Tesla,58.0
+United Kingdom,GB,2020,1,electric car,18.0
+United Kingdom,GB,2020,1,electric vehicle,74.25
+United Kingdom,GB,2020,2,BYD,0.0
+United Kingdom,GB,2020,2,EV charging,73.5
+United Kingdom,GB,2020,2,Tesla,63.75
+United Kingdom,GB,2020,2,electric car,21.25
+United Kingdom,GB,2020,2,electric vehicle,87.5
+United Kingdom,GB,2020,3,BYD,0.0
+United Kingdom,GB,2020,3,EV charging,43.8
+United Kingdom,GB,2020,3,Tesla,41.8
+United Kingdom,GB,2020,3,electric car,11.6
+United Kingdom,GB,2020,3,electric vehicle,57.0
+United Kingdom,GB,2020,4,BYD,0.0
+United Kingdom,GB,2020,4,EV charging,19.75
+United Kingdom,GB,2020,4,Tesla,36.5
+United Kingdom,GB,2020,4,electric car,8.75
+United Kingdom,GB,2020,4,electric vehicle,36.75
+United Kingdom,GB,2020,5,BYD,0.0
+United Kingdom,GB,2020,5,EV charging,31.4
+United Kingdom,GB,2020,5,Tesla,40.0
+United Kingdom,GB,2020,5,electric car,11.6
+United Kingdom,GB,2020,5,electric vehicle,49.6
+United Kingdom,GB,2020,6,BYD,0.0
+United Kingdom,GB,2020,6,EV charging,44.25
+United Kingdom,GB,2020,6,Tesla,47.25
+United Kingdom,GB,2020,6,electric car,15.0
+United Kingdom,GB,2020,6,electric vehicle,59.75
+United Kingdom,GB,2020,7,BYD,0.25
+United Kingdom,GB,2020,7,EV charging,61.75
+United Kingdom,GB,2020,7,Tesla,64.5
+United Kingdom,GB,2020,7,electric car,15.75
+United Kingdom,GB,2020,7,electric vehicle,65.25
+United Kingdom,GB,2020,8,BYD,0.0
+United Kingdom,GB,2020,8,EV charging,61.2
+United Kingdom,GB,2020,8,Tesla,67.0
+United Kingdom,GB,2020,8,electric car,17.6
+United Kingdom,GB,2020,8,electric vehicle,61.4
+United Kingdom,GB,2020,9,BYD,0.25
+United Kingdom,GB,2020,9,EV charging,73.25
+United Kingdom,GB,2020,9,Tesla,78.75
+United Kingdom,GB,2020,9,electric car,17.0
+United Kingdom,GB,2020,9,electric vehicle,68.5
+United Kingdom,GB,2020,10,BYD,0.0
+United Kingdom,GB,2020,10,EV charging,65.5
+United Kingdom,GB,2020,10,Tesla,55.5
+United Kingdom,GB,2020,10,electric car,16.25
+United Kingdom,GB,2020,10,electric vehicle,67.25
+United Kingdom,GB,2020,11,BYD,1.0
+United Kingdom,GB,2020,11,EV charging,70.4
+United Kingdom,GB,2020,11,Tesla,53.6
+United Kingdom,GB,2020,11,electric car,19.6
+United Kingdom,GB,2020,11,electric vehicle,80.8
+United Kingdom,GB,2020,12,BYD,0.0
+United Kingdom,GB,2020,12,EV charging,56.0
+United Kingdom,GB,2020,12,Tesla,61.6
+United Kingdom,GB,2020,12,electric car,18.0
+United Kingdom,GB,2020,12,electric vehicle,52.8
+United Kingdom,GB,2021,1,BYD,1.0
+United Kingdom,GB,2021,1,EV charging,35.0
+United Kingdom,GB,2021,1,Tesla,83.0
+United Kingdom,GB,2021,1,electric car,18.6
+United Kingdom,GB,2021,1,electric vehicle,43.4
+United Kingdom,GB,2021,2,BYD,1.0
+United Kingdom,GB,2021,2,EV charging,46.0
+United Kingdom,GB,2021,2,Tesla,81.5
+United Kingdom,GB,2021,2,electric car,21.25
+United Kingdom,GB,2021,2,electric vehicle,49.5
+United Kingdom,GB,2021,3,BYD,0.75
+United Kingdom,GB,2021,3,EV charging,47.25
+United Kingdom,GB,2021,3,Tesla,76.0
+United Kingdom,GB,2021,3,electric car,21.0
+United Kingdom,GB,2021,3,electric vehicle,45.0
+United Kingdom,GB,2021,4,BYD,1.0
+United Kingdom,GB,2021,4,EV charging,54.75
+United Kingdom,GB,2021,4,Tesla,70.0
+United Kingdom,GB,2021,4,electric car,22.75
+United Kingdom,GB,2021,4,electric vehicle,47.5
+United Kingdom,GB,2021,5,BYD,0.8
+United Kingdom,GB,2021,5,EV charging,64.2
+United Kingdom,GB,2021,5,Tesla,66.4
+United Kingdom,GB,2021,5,electric car,23.4
+United Kingdom,GB,2021,5,electric vehicle,48.0
+United Kingdom,GB,2021,6,BYD,1.0
+United Kingdom,GB,2021,6,EV charging,68.25
+United Kingdom,GB,2021,6,Tesla,59.5
+United Kingdom,GB,2021,6,electric car,23.75
+United Kingdom,GB,2021,6,electric vehicle,48.75
+United Kingdom,GB,2021,7,BYD,0.5
+United Kingdom,GB,2021,7,EV charging,70.25
+United Kingdom,GB,2021,7,Tesla,55.25
+United Kingdom,GB,2021,7,electric car,25.75
+United Kingdom,GB,2021,7,electric vehicle,46.75
+United Kingdom,GB,2021,8,BYD,0.6
+United Kingdom,GB,2021,8,EV charging,78.6
+United Kingdom,GB,2021,8,Tesla,58.6
+United Kingdom,GB,2021,8,electric car,27.2
+United Kingdom,GB,2021,8,electric vehicle,47.2
+United Kingdom,GB,2021,9,BYD,0.25
+United Kingdom,GB,2021,9,EV charging,86.75
+United Kingdom,GB,2021,9,Tesla,57.25
+United Kingdom,GB,2021,9,electric car,33.25
+United Kingdom,GB,2021,9,electric vehicle,55.25
+United Kingdom,GB,2021,10,BYD,1.0
+United Kingdom,GB,2021,10,EV charging,91.4
+United Kingdom,GB,2021,10,Tesla,76.8
+United Kingdom,GB,2021,10,electric car,37.4
+United Kingdom,GB,2021,10,electric vehicle,61.8
+United Kingdom,GB,2021,11,BYD,1.0
+United Kingdom,GB,2021,11,EV charging,91.75
+United Kingdom,GB,2021,11,Tesla,76.25
+United Kingdom,GB,2021,11,electric car,30.5
+United Kingdom,GB,2021,11,electric vehicle,63.75
+United Kingdom,GB,2021,12,BYD,0.8
+United Kingdom,GB,2021,12,EV charging,75.6
+United Kingdom,GB,2021,12,Tesla,66.8
+United Kingdom,GB,2021,12,electric car,25.2
+United Kingdom,GB,2021,12,electric vehicle,44.4
+United Kingdom,GB,2022,1,BYD,1.0
+United Kingdom,GB,2022,1,EV charging,79.2
+United Kingdom,GB,2022,1,Tesla,80.4
+United Kingdom,GB,2022,1,electric car,32.2
+United Kingdom,GB,2022,1,electric vehicle,49.4
+United Kingdom,GB,2022,2,BYD,1.0
+United Kingdom,GB,2022,2,EV charging,81.75
+United Kingdom,GB,2022,2,Tesla,71.0
+United Kingdom,GB,2022,2,electric car,31.25
+United Kingdom,GB,2022,2,electric vehicle,53.5
+United Kingdom,GB,2022,3,BYD,1.0
+United Kingdom,GB,2022,3,EV charging,97.5
+United Kingdom,GB,2022,3,Tesla,86.25
+United Kingdom,GB,2022,3,electric car,46.25
+United Kingdom,GB,2022,3,electric vehicle,60.75
+United Kingdom,GB,2022,4,BYD,1.0
+United Kingdom,GB,2022,4,EV charging,83.5
+United Kingdom,GB,2022,4,Tesla,86.25
+United Kingdom,GB,2022,4,electric car,38.75
+United Kingdom,GB,2022,4,electric vehicle,51.25
+United Kingdom,GB,2022,5,BYD,1.0
+United Kingdom,GB,2022,5,EV charging,75.0
+United Kingdom,GB,2022,5,Tesla,78.4
+United Kingdom,GB,2022,5,electric car,30.6
+United Kingdom,GB,2022,5,electric vehicle,46.2
+United Kingdom,GB,2022,6,BYD,1.0
+United Kingdom,GB,2022,6,EV charging,92.5
+United Kingdom,GB,2022,6,Tesla,72.5
+United Kingdom,GB,2022,6,electric car,45.0
+United Kingdom,GB,2022,6,electric vehicle,53.0
+United Kingdom,GB,2022,7,BYD,1.4
+United Kingdom,GB,2022,7,EV charging,91.0
+United Kingdom,GB,2022,7,Tesla,65.8
+United Kingdom,GB,2022,7,electric car,33.2
+United Kingdom,GB,2022,7,electric vehicle,45.2
+United Kingdom,GB,2022,8,BYD,1.0
+United Kingdom,GB,2022,8,EV charging,86.5
+United Kingdom,GB,2022,8,Tesla,67.5
+United Kingdom,GB,2022,8,electric car,30.25
+United Kingdom,GB,2022,8,electric vehicle,45.5
+United Kingdom,GB,2022,9,BYD,1.0
+United Kingdom,GB,2022,9,EV charging,78.75
+United Kingdom,GB,2022,9,Tesla,61.25
+United Kingdom,GB,2022,9,electric car,27.75
+United Kingdom,GB,2022,9,electric vehicle,43.5
+United Kingdom,GB,2022,10,BYD,1.0
+United Kingdom,GB,2022,10,EV charging,82.4
+United Kingdom,GB,2022,10,Tesla,62.4
+United Kingdom,GB,2022,10,electric car,25.6
+United Kingdom,GB,2022,10,electric vehicle,43.8
+United Kingdom,GB,2022,11,BYD,1.25
+United Kingdom,GB,2022,11,EV charging,77.5
+United Kingdom,GB,2022,11,Tesla,60.75
+United Kingdom,GB,2022,11,electric car,25.25
+United Kingdom,GB,2022,11,electric vehicle,48.5
+United Kingdom,GB,2022,12,BYD,1.0
+United Kingdom,GB,2022,12,EV charging,83.75
+United Kingdom,GB,2022,12,Tesla,77.25
+United Kingdom,GB,2022,12,electric car,24.25
+United Kingdom,GB,2022,12,electric vehicle,37.0
+United Kingdom,GB,2023,1,BYD,1.8
+United Kingdom,GB,2023,1,EV charging,77.0
+United Kingdom,GB,2023,1,Tesla,96.8
+United Kingdom,GB,2023,1,electric car,30.2
+United Kingdom,GB,2023,1,electric vehicle,39.8
+United Kingdom,GB,2023,2,BYD,2.0
+United Kingdom,GB,2023,2,EV charging,74.25
+United Kingdom,GB,2023,2,Tesla,82.75
+United Kingdom,GB,2023,2,electric car,28.25
+United Kingdom,GB,2023,2,electric vehicle,39.5
+United Kingdom,GB,2023,3,BYD,2.75
+United Kingdom,GB,2023,3,EV charging,85.5
+United Kingdom,GB,2023,3,Tesla,80.0
+United Kingdom,GB,2023,3,electric car,27.25
+United Kingdom,GB,2023,3,electric vehicle,40.75
+United Kingdom,GB,2023,4,BYD,3.4
+United Kingdom,GB,2023,4,EV charging,84.0
+United Kingdom,GB,2023,4,Tesla,75.6
+United Kingdom,GB,2023,4,electric car,27.8
+United Kingdom,GB,2023,4,electric vehicle,37.2
+United Kingdom,GB,2023,5,BYD,2.5
+United Kingdom,GB,2023,5,EV charging,80.75
+United Kingdom,GB,2023,5,Tesla,73.75
+United Kingdom,GB,2023,5,electric car,27.0
+United Kingdom,GB,2023,5,electric vehicle,39.25
+United Kingdom,GB,2023,6,BYD,2.5
+United Kingdom,GB,2023,6,EV charging,82.0
+United Kingdom,GB,2023,6,Tesla,77.5
+United Kingdom,GB,2023,6,electric car,28.0
+United Kingdom,GB,2023,6,electric vehicle,36.75
+United Kingdom,GB,2023,7,BYD,2.6
+United Kingdom,GB,2023,7,EV charging,91.6
+United Kingdom,GB,2023,7,Tesla,80.4
+United Kingdom,GB,2023,7,electric car,30.4
+United Kingdom,GB,2023,7,electric vehicle,39.4
+United Kingdom,GB,2023,8,BYD,3.25
+United Kingdom,GB,2023,8,EV charging,86.75
+United Kingdom,GB,2023,8,Tesla,71.25
+United Kingdom,GB,2023,8,electric car,28.25
+United Kingdom,GB,2023,8,electric vehicle,36.0
+United Kingdom,GB,2023,9,BYD,6.5
+United Kingdom,GB,2023,9,EV charging,95.0
+United Kingdom,GB,2023,9,Tesla,73.0
+United Kingdom,GB,2023,9,electric car,30.0
+United Kingdom,GB,2023,9,electric vehicle,44.0
+United Kingdom,GB,2023,10,BYD,4.6
+United Kingdom,GB,2023,10,EV charging,91.0
+United Kingdom,GB,2023,10,Tesla,68.8
+United Kingdom,GB,2023,10,electric car,30.2
+United Kingdom,GB,2023,10,electric vehicle,45.4
+United Kingdom,GB,2023,11,BYD,4.5
+United Kingdom,GB,2023,11,EV charging,86.5
+United Kingdom,GB,2023,11,Tesla,70.75
+United Kingdom,GB,2023,11,electric car,26.5
+United Kingdom,GB,2023,11,electric vehicle,40.5
+United Kingdom,GB,2023,12,BYD,17.33
+United Kingdom,GB,2023,12,EV charging,81.0
+United Kingdom,GB,2023,12,Tesla,71.0
+United Kingdom,GB,2023,12,electric car,26.33
+United Kingdom,GB,2023,12,electric vehicle,37.67
+United Kingdom,GB,2024,1,BYD,11.5
+United Kingdom,GB,2024,1,EV charging,88.0
+United Kingdom,GB,2024,1,Tesla,67.25
+United Kingdom,GB,2024,1,electric car,25.25
+United Kingdom,GB,2024,1,electric vehicle,36.25
+United Kingdom,GB,2024,2,BYD,10.25
+United Kingdom,GB,2024,2,EV charging,89.75
+United Kingdom,GB,2024,2,Tesla,66.75
+United Kingdom,GB,2024,2,electric car,27.0
+United Kingdom,GB,2024,2,electric vehicle,38.5
+United Kingdom,GB,2024,3,BYD,8.4
+United Kingdom,GB,2024,3,EV charging,89.8
+United Kingdom,GB,2024,3,Tesla,67.4
+United Kingdom,GB,2024,3,electric car,26.4
+United Kingdom,GB,2024,3,electric vehicle,40.0
+United Kingdom,GB,2024,4,BYD,8.25
+United Kingdom,GB,2024,4,EV charging,79.5
+United Kingdom,GB,2024,4,Tesla,77.25
+United Kingdom,GB,2024,4,electric car,24.75
+United Kingdom,GB,2024,4,electric vehicle,38.75
+United Kingdom,GB,2024,5,BYD,8.5
+United Kingdom,GB,2024,5,EV charging,77.75
+United Kingdom,GB,2024,5,Tesla,62.5
+United Kingdom,GB,2024,5,electric car,23.75
+United Kingdom,GB,2024,5,electric vehicle,36.5
+United Kingdom,GB,2024,6,BYD,14.0
+United Kingdom,GB,2024,6,EV charging,78.8
+United Kingdom,GB,2024,6,Tesla,68.2
+United Kingdom,GB,2024,6,electric car,23.2
+United Kingdom,GB,2024,6,electric vehicle,37.8
+United Kingdom,GB,2024,7,BYD,10.25
+United Kingdom,GB,2024,7,EV charging,85.5
+United Kingdom,GB,2024,7,Tesla,68.75
+United Kingdom,GB,2024,7,electric car,25.25
+United Kingdom,GB,2024,7,electric vehicle,37.5
+United Kingdom,GB,2024,8,BYD,8.0
+United Kingdom,GB,2024,8,EV charging,93.75
+United Kingdom,GB,2024,8,Tesla,62.75
+United Kingdom,GB,2024,8,electric car,25.0
+United Kingdom,GB,2024,8,electric vehicle,37.5
+United Kingdom,GB,2024,9,BYD,11.2
+United Kingdom,GB,2024,9,EV charging,93.4
+United Kingdom,GB,2024,9,Tesla,66.8
+United Kingdom,GB,2024,9,electric car,27.4
+United Kingdom,GB,2024,9,electric vehicle,41.8
+United Kingdom,GB,2024,10,BYD,15.75
+United Kingdom,GB,2024,10,EV charging,90.5
+United Kingdom,GB,2024,10,Tesla,85.75
+United Kingdom,GB,2024,10,electric car,27.5
+United Kingdom,GB,2024,10,electric vehicle,52.75
+United Kingdom,GB,2024,11,BYD,13.75
+United Kingdom,GB,2024,11,EV charging,92.0
+United Kingdom,GB,2024,11,Tesla,90.0
+United Kingdom,GB,2024,11,electric car,28.0
+United Kingdom,GB,2024,11,electric vehicle,44.0
+United Kingdom,GB,2024,12,BYD,13.2
+United Kingdom,GB,2024,12,EV charging,86.8
+United Kingdom,GB,2024,12,Tesla,89.0
+United Kingdom,GB,2024,12,electric car,26.8
+United Kingdom,GB,2024,12,electric vehicle,34.6

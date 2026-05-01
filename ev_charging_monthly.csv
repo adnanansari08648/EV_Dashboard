@@ -1,0 +1,457 @@
+country,year,month,slow_chargers_cumulative,fast_chargers_cumulative,total_chargers_cumulative,source,frequency
+China,2019,1,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,2,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,3,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,4,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,5,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,6,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,7,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,8,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,9,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,10,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,11,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2019,12,516000,59000,575000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,1,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,2,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,3,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,4,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,5,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,6,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,7,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,8,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,9,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,10,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,11,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2020,12,673000,111000,784000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,1,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,2,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,3,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,4,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,5,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,6,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,7,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,8,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,9,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,10,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,11,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2021,12,1150000,261000,1411000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,1,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,2,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,3,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,4,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,5,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,6,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,7,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,8,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,9,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,10,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,11,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2022,12,1750000,521000,2271000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,1,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,2,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,3,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,4,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,5,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,6,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,7,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,8,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,9,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,10,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,11,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+China,2023,12,2750000,859000,3609000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,1,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,2,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,3,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,4,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,5,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,6,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,7,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,8,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,9,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,10,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,11,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2019,12,68000,16000,84000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,1,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,2,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,3,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,4,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,5,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,6,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,7,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,8,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,9,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,10,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,11,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2020,12,80000,20000,100000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,1,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,2,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,3,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,4,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,5,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,6,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,7,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,8,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,9,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,10,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,11,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2021,12,100000,26000,126000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,1,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,2,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,3,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,4,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,5,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,6,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,7,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,8,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,9,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,10,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,11,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2022,12,128000,32000,160000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,1,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,2,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,3,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,4,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,5,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,6,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,7,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,8,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,9,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,10,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,11,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+USA,2023,12,159000,42000,201000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,1,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,2,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,3,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,4,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,5,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,6,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,7,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,8,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,9,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,10,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,11,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2019,12,24000,4200,28200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,1,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,2,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,3,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,4,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,5,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,6,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,7,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,8,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,9,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,10,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,11,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2020,12,35000,5800,40800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,1,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,2,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,3,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,4,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,5,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,6,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,7,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,8,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,9,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,10,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,11,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2021,12,52000,8400,60400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,1,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,2,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,3,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,4,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,5,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,6,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,7,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,8,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,9,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,10,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,11,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2022,12,72000,13000,85000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,1,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,2,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,3,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,4,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,5,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,6,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,7,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,8,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,9,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,10,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,11,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Germany,2023,12,95000,18000,113000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,1,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,2,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,3,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,4,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,5,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,6,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,7,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,8,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,9,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,10,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,11,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2019,12,18000,3200,21200,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,1,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,2,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,3,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,4,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,5,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,6,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,7,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,8,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,9,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,10,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,11,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2020,12,22000,4100,26100,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,1,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,2,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,3,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,4,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,5,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,6,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,7,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,8,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,9,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,10,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,11,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2021,12,28000,5400,33400,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,1,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,2,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,3,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,4,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,5,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,6,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,7,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,8,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,9,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,10,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,11,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2022,12,37000,7800,44800,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,1,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,2,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,3,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,4,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,5,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,6,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,7,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,8,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,9,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,10,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,11,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+United Kingdom,2023,12,50000,11000,61000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,1,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,2,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,3,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,4,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,5,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,6,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,7,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,8,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,9,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,10,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,11,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2019,12,14000,2100,16100,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,1,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,2,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,3,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,4,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,5,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,6,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,7,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,8,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,9,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,10,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,11,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2020,12,18000,2900,20900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,1,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,2,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,3,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,4,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,5,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,6,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,7,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,8,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,9,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,10,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,11,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2021,12,23000,3800,26800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,1,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,2,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,3,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,4,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,5,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,6,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,7,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,8,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,9,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,10,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,11,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2022,12,28000,4900,32900,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,1,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,2,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,3,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,4,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,5,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,6,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,7,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,8,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,9,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,10,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,11,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Norway,2023,12,34000,6200,40200,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,1,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,2,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,3,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,4,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,5,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,6,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,7,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,8,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,9,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,10,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,11,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2021,12,1800,580,2380,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,1,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,2,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,3,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,4,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,5,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,6,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,7,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,8,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,9,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,10,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,11,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2022,12,6100,1200,7300,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,1,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,2,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,3,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,4,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,5,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,6,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,7,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,8,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,9,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,10,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,11,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+India,2023,12,12000,2100,14100,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,1,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,2,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,3,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,4,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,5,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,6,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,7,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,8,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,9,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,10,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,11,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2019,12,28000,2800,30800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,1,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,2,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,3,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,4,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,5,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,6,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,7,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,8,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,9,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,10,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,11,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2020,12,40000,4200,44200,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,1,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,2,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,3,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,4,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,5,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,6,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,7,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,8,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,9,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,10,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,11,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2021,12,58000,6800,64800,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,1,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,2,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,3,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,4,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,5,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,6,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,7,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,8,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,9,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,10,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,11,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2022,12,80000,10000,90000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,1,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,2,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,3,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,4,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,5,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,6,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,7,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,8,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,9,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,10,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,11,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+France,2023,12,115000,14000,129000,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,1,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,2,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,3,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,4,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,5,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,6,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,7,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,8,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,9,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,10,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,11,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2019,12,55000,3800,58800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,1,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,2,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,3,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,4,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,5,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,6,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,7,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,8,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,9,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,10,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,11,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2020,12,71000,5200,76200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,1,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,2,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,3,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,4,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,5,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,6,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,7,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,8,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,9,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,10,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,11,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2021,12,95000,7400,102400,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,1,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,2,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,3,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,4,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,5,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,6,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,7,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,8,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,9,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,10,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,11,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2022,12,120000,10200,130200,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,1,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,2,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,3,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,4,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,5,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,6,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,7,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,8,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,9,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,10,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,11,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated
+Netherlands,2023,12,150000,13800,163800,IEA_Global_EV_Outlook_2024,annual_interpolated

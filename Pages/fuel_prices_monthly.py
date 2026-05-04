@@ -65,6 +65,11 @@ if "month" in df.columns:
             default=sorted(df["month"].dropna().unique())
         )
     filtered_df = filtered_df[filtered_df["month"].isin(months)]
+
+# ---------- HANDLE EMPTY DATA ----------
+if filtered_df.empty:
+    st.warning("⚠️ No data available for selected filters")
+    st.stop()    
     
 # ---------- KPI SECTION ----------
 col1, col2, col3, col4 = st.columns(4)

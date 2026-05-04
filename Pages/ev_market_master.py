@@ -52,6 +52,12 @@ if brands is not None:
 if years is not None:
     filtered_df = filtered_df[filtered_df["year"].isin(years)]
 
+
+# ---------- HANDLE EMPTY DATA ----------
+if filtered_df.empty:
+    st.warning("⚠️ No data available for selected filters")
+    st.stop()    
+
 # ================= KPI SECTION =================
 col1, col2, col3 = st.columns(3)
 

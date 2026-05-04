@@ -40,6 +40,11 @@ st.markdown("""
 
 st.markdown("---")
 
+# ---------- HANDLE EMPTY DATA ----------
+if df.empty:
+    st.warning("⚠️ No data available for selected filters")
+    st.stop()
+
 # ---------- KPI ROW ----------
 col1, col2, col3, col4 = st.columns(4)
 

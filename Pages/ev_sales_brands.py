@@ -38,6 +38,11 @@ filtered_df = df[
 brand_sales = filtered_df.groupby("brand")["units_sold"].sum().reset_index()
 brand_sales = brand_sales.sort_values(by="units_sold", ascending=False)
 
+# ---------- HANDLE EMPTY DATA ----------
+if filtered_df.empty:
+    st.warning("⚠️ No data available for selected filters")
+    st.stop()
+
 # ---- KPI SECTION ----
 col1, col2, col3, col4 = st.columns(4)
 
